@@ -2,8 +2,7 @@
 layout: post
 title: Latest News
 subtitle: BAMO returns February 2022!
-cover-img: /assets/img/bamo_final4.JPG
-thumbnail-img: /assets/img/bamo_final4.JPG
+
 share-img: /assets/img/path.jpg
 tags: [bamo, msri]
 ---
