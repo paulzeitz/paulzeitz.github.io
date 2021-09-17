@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Flake it till you make it
+title: Latest News
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/bamo_final4.JPG
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/bamo_final4.JPG
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
