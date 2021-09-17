@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Latest News
 subtitle: BAMO returns February 2022!
 tags: [bamo, msri]
