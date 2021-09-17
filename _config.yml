@@ -14,6 +14,7 @@ author: Paul Zeitz
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Information: "information"
   About Me: "aboutme"
   Archives:
     - Problems and Solutions: "https://beautifuljekyll.com"
@@ -116,7 +117,7 @@ footer-link-col: "#404040"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/bamo_final4.JPG"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
