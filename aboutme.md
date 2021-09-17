@@ -5,6 +5,7 @@ subtitle: Why you'd want to go on a date with mee
 ---
 
 My name is Inigoee Montoya. I have the following qualities:
+![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 - I rock a great mustache
 - I'm extremely loyal to my family
