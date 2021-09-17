@@ -1,9 +1,10 @@
 ---
-layout: minimal
+layout: page
+title: Problems and Solutions from earlier BAMOs
 
 ---
 
-# Problems and Solutions of earlier BAMO exams
+
 
 * [2019](bamo2019examsol.pdf)
 * [2018](BAMO2018ProblemsAndSolutions.pdf)
