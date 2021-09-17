@@ -17,7 +17,7 @@ navbar-links:
   Information: "information"
   About Me: "aboutme"
   Archives:
-    - Problems and Solutions: "assets/archives/problems_and_solutions"
+    - Problems and Solutions: "archives/problems_and_solutions"
     - Past Speakers: "https://www.markdowntutorial.com/"
     - Awards
   Our Sponsors: "https://deanattali.com"
