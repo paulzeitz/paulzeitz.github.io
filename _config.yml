@@ -19,7 +19,7 @@ navbar-links:
   Archives:
     - Problems and Solutions: "archives/problems_and_solutions"
     - Past Speakers: "https://www.markdowntutorial.com/"
-    - Awards
+    - Awards: "https://www.markdowntutorial.com/"
   Our Sponsors: "https://deanattali.com"
 
 # --- Logo --- #
@@ -67,23 +67,23 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "www.bamo.org"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 5
+excerpt_length: 0
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
@@ -95,7 +95,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+#keywords: "bamo, olympiad, math, problems, contest"
 
 # --- Colours / background image --- #
 
