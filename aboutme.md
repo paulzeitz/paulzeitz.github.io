@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About mee
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to go on a date with mee
 ---
 
 My name is Inigoee Montoya. I have the following qualities:
