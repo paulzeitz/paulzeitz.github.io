@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Problems and Solutions of past BAMO exams
+subtitle: Problems and Solutions of past BAMO exams
 ---
 
 * [2019](bamo2019examsol.pdf)
