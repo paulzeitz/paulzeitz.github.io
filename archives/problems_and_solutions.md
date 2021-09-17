@@ -1,5 +1,6 @@
 ---
 layout: page
+title: 
 subtitle: Problems and Solutions of past BAMO exams
 ---
 
