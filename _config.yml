@@ -15,7 +15,7 @@ author: Paul Zeitz
 
 navbar-links:
   About: "information"
-  Apply: "aboutme"
+  Apply: "apply"
   Archives:
     - Problems and Solutions: "archives/problems_and_solutions"
     - Past Speakers: "https://www.markdowntutorial.com/"
