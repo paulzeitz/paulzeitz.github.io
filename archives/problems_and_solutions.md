@@ -6,6 +6,7 @@ title: Problems and Solutions from earlier BAMOs
 
 
 
+* [2020]
 * [2019](bamo2019examsol.pdf)
 * [2018](BAMO2018ProblemsAndSolutions.pdf)
 * [2017](bamo2017examsol.pdf)
@@ -26,5 +27,5 @@ title: Problems and Solutions from earlier BAMOs
 * [2002]
 * [2001]
 * [2000]
-* [1999]
-* [1998]
+* [1999](bamo99draft.pdf)
+
