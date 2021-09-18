@@ -14,7 +14,7 @@ author: Paul Zeitz
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Information: "information"
+  About: "information"
   Apply: "aboutme"
   Archives:
     - Problems and Solutions: "archives/problems_and_solutions"
