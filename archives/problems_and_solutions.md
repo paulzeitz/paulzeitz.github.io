@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Problems and Solutions from earlier BAMOs
 
 ---
