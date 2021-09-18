@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Probls and Solutions from earlier BAMOs
+title: Problems and Solutions from earlier BAMOs
 
 ---
 
