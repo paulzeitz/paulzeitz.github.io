@@ -17,7 +17,7 @@ title: Problems and Solutions from earlier BAMOs
 * [2012]
 * [2011]
 * [2010]
-* [2009]
+* [2009](bamo2009examsol.pdf)
 * [2008]
 * [2007]
 * [2006]
