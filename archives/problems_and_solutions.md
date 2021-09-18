@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Problems and Solutions from earlier BAMOs
+layout: base
+title: Problemss and Solutions from earlier BAMOs
 
 ---
 
