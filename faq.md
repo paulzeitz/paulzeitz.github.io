@@ -29,7 +29,7 @@ title: Frequently asked questions
     <td>Mexico</td>
   </tr>
 </table>
- </tr>
+ 
                     </table>
                 </td>
 </tr>
@@ -276,4 +276,4 @@ title: Frequently asked questions
                             </td>
                         </tr>
                     </table>
-                    <table cellpadding="50">
+                   
