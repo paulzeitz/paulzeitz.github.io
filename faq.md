@@ -30,11 +30,7 @@ title: Frequently asked questions
   </tr>
 </table>
  
-                    </table>
-                </td>
-</tr>
-            <tr valign="top">
-                <td align="center">
+
                     <table border="0" width="400">
                         <tr valign="top">
                             <td>
