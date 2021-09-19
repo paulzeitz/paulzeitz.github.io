@@ -265,10 +265,7 @@ title: Frequently asked questions
                                                                 <td>Lynbrook HS</td>
                                                             </tr>
                                                         </table>
-                                                </td>
-                                            </tr>
-                                        </table>
-                                    </div>
+                                                
                                 </div>
                             </td>
                         </tr>
