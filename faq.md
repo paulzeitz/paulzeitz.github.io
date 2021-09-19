@@ -12,6 +12,10 @@ title: Frequently asked questions
 | 1    | 2   | 3   | 4     | 5    |
 | q    | _e_ | *y* | **h** | m    |
 
+
+ </tr>
+                    </table>
+                </td>
 </tr>
             <tr valign="top">
                 <td align="center">
