@@ -267,7 +267,5 @@ title: Frequently asked questions
                                                         </table>
                                                 
                                 </div>
-                            </td>
-                        </tr>
-                    </table>
+                            
                    
