@@ -12,7 +12,7 @@ title: Problems and Solutions from earlier BAMOs
 * [2017](bamo2017examsol.pdf)
 * [2016](BAMO2016ProblemsAndSolutions.pdf)
 * [2015](bamo2015-problems-and-solutions.pdf)
-* [2014]
+* [2014](bamo2014-problems-and-solutions.pdf)
 * [2013]
 * [2012]
 * [2011]
