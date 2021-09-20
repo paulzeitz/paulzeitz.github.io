@@ -1,3 +1,4 @@
+<table width="650" border="0">
 <tr><td colspan="3">
 <h1>Speakers</h1>
 </td></tr>
