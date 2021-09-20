@@ -18,7 +18,7 @@ navbar-links:
   Apply: "apply"
   Archives:
     - Problems and Solutions: "archives/problems_and_solutions"
-    - Past Speakers: "https://www.markdowntutorial.com/"
+    - Past Speakers: "archives/speakers"
     - Awards: "https://www.markdowntutorial.com/"
   FAQs: "faq"
   Our Sponsors: "https://deanattali.com"
