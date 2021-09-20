@@ -1,6 +1,6 @@
 <table width="650" border="0">
 <tr><td colspan="3">
-<h1>Speakers</h1>
+<h1>Speakerz</h1>
 </td></tr>
 <tr> <td colspan="3" height="20px"> </td> </tr>
 <tr valign="bottom">
