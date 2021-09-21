@@ -25,7 +25,7 @@ St. Lawrence University<br>
 Held at MSRI</td>
 </tr>
 <tr valign="bottom">
-<td></td>
+<td><img src="/archives/speakerImages/JacobFox_BAMO2016.jpg" border="0"></td>
 <td><img src="/archives/speakerImages/GabrielCarroll_BAMO2015.jpg" border="0"> </td>
 <td><img src="/archives/speakerImages/Sam_Vandervelde_Small.jpg" border="0"> </td>
 </tr>
