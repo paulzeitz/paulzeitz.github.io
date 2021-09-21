@@ -47,9 +47,9 @@ Held at MSRI</td>
 </tr>
 <tr> <td colspan="3" height="20px"> </td> </tr>
 <tr valign="bottom">
-<td><img src="../speakerImages/OlgaHoltz_BAMO2013.jpg" border="0"></td>
-<td><img src="../speakerImages/JamesPropp_BAMO2012.jpg" border="0"> </td>
-<td><img src="../speakerImages/BerndSturmfels_BAMO2011.jpg" border="0"> </td>
+<td><img src="/archives/speakerImages/OlgaHoltz_BAMO2013.jpg" border="0"></td>
+<td><img src="/archives/speakerImages/JamesPropp_BAMO2012.jpg" border="0"> </td>
+<td><img src="/archives/speakerImages/BerndSturmfels_BAMO2011.jpg" border="0"> </td>
 </tr>
 <tr valign="top">
 <td><a href="http://www.cs.berkeley.edu/~oholtz/">Olga Holtz</a><br>
@@ -74,9 +74,9 @@ Held at MSRI</td>
 </tr>
 <tr> <td colspan="3" height="20px"> </td> </tr>
 <tr valign="bottom">
-<td><img src="../speakerImages/banchoff2_small.jpg" border="0"> </td>
-<td><img src="../speakerImages/francis_su_photo_small.jpg" border="0"> </td>
-<td><img src="../speakerImages/bamo08_conway_2_small.jpg" border="0"> </td>
+<td><img src="/archives/speakerImages/banchoff2_small.jpg" border="0"> </td>
+<td><img src="/archives/speakerImages/francis_su_photo_small.jpg" border="0"> </td>
+<td><img src="/archives/speakerImages/bamo08_conway_2_small.jpg" border="0"> </td>
 </tr>
 <tr valign="top">
 <td>
@@ -102,9 +102,9 @@ Held at MSRI
 </tr>
 <tr> <td colspan="3" height="20px"> </td> </tr>
 <tr valign="bottom">
-<td><img src="../speakerImages/FArdila_small.jpg" border="0"> </td>
-<td><img src="../speakerImages/ArthurBenjamin_BAMO_small.jpg" border="0"> </td>
-<td><img src="../speakerImages/Melanie_Woods_BAMO_small.jpg" border="0"></td>
+<td><img src="/archives/speakerImages/FArdila_small.jpg" border="0"> </td>
+<td><img src="/archives/speakerImages/ArthurBenjamin_BAMO_small.jpg" border="0"> </td>
+<td><img src="/archives/speakerImages/Melanie_Woods_BAMO_small.jpg" border="0"></td>
 </tr>
 <tr valign="top">
 <td>
@@ -128,9 +128,9 @@ Held at USF
 </tr>
 <tr> <td colspan="3" height="20px"> </td> </tr>
 <tr valign="bottom">
-<td><img src="../speakerImages/Joe_Buhler_BAMO_small.jpg" border="0"> </td>
-<td><img src="../speakerImages/Ravi_Vakil_BAMO_small.jpg" border="0"> </td>
-<td><img src="../speakerImages/Joe_Gallian_BAMO_small.jpg" border="0"> </td>
+<td><img src="/archives/speakerImages/Joe_Buhler_BAMO_small.jpg" border="0"> </td>
+<td><img src="/archives/speakerImages/Ravi_Vakil_BAMO_small.jpg" border="0"> </td>
+<td><img src="/archives/speakerImages/Joe_Gallian_BAMO_small.jpg" border="0"> </td>
 </tr>
 <tr valign="top">
 <td>
@@ -157,9 +157,9 @@ Held at SJSU
 </tr>
 <tr> <td colspan="3" height="20px"> </td> </tr>
 <tr valign="bottom">
-<td> <img src="../speakerImages/Ron_Graham_BAMO_small.jpg" border="0"></td>
-<td> <img src="../speakerImages/Persi_Diaconis_BAMO_small.jpg" border="0"></td>
-<td> <img src="../speakerImages/Alan_Weinstein_BAMO_small.jpg" border="0"> </td>
+<td> <img src="/archives/speakerImages/Ron_Graham_BAMO_small.jpg" border="0"></td>
+<td> <img src="/archives/speakerImages/Persi_Diaconis_BAMO_small.jpg" border="0"></td>
+<td> <img src="/archives/speakerImages/Alan_Weinstein_BAMO_small.jpg" border="0"> </td>
 </tr>
 <tr valign="top">
 <td>
