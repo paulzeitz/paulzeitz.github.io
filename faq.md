@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Frequently asked questionz
+title: Frequently asked questionzz
 ---
 
 
