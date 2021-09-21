@@ -12,10 +12,10 @@
 <td><a href="https://www.linkedin.com/in/mira-bernstein-1550a1137/">Mira Bernstein</a><br>
 Professor<br>
 Stanford University<br>
-<em> "Ramsey Theory:  Order from Chaos," 2016.</em><br>Held at MSRI</td>
+<em> "A game you can't play (but would win if you could)," 2019.</em><br>Held at MSRI</td>
 <td><a href="http://web.stanford.edu/~gdc/">Gabriel Carroll</a><br>
-Assistant Professor of Economics,<br>
-Stanford University<br>
+Chair, Board of Directors<br>
+Candada/USA Math Camp<br>
 <em>"Auctions," 2015.</em><br>
 Held at MSRI</td>
 <td><a href="http://myslu.stlawu.edu/~svanderv/">Sam Vandervelde</a><br>
