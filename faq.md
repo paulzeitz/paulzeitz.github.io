@@ -11,9 +11,12 @@ Originally, BAMO was restricted to students in schools in the San Francisco Bay 
 
 * How hard?  
 the next
-* How do I register
-* Home school?
-* grading
+* _How do I register?_  
+Registration is done by schools or proctoring centers, such as math circles. We  send out an email in December to schools/proctoring centers that have been involved with BAMO in the past to register students to take the exam. We also will have the registration questionnaire available on the web site in December. The school/proctoring site needs a designated proctor who will administer the exam on-site.
+* What if I am a student at a school and I cannot find a proctor?  
+In this case, we will attempt to match you with a proctoring site nearby.  Usually another school or math circle will accommodate you.
+* What if I am home schooled? Can my parent or guardian be the proctor?  
+In this case, you will not be able to take the exam at home.  You will need to find a nearby center to accommodate you.
 * prizes
 
 
