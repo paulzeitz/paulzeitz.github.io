@@ -8,6 +8,22 @@
 <td><img src="/archives/speakerImages/GabrielCarroll_BAMO2015.jpg" border="0"> </td>
 <td><img src="/archives/speakerImages/Sam_Vandervelde_Small.jpg" border="0"> </td>
 </tr>
+<tr valign="top">
+<td><a href="https://www.linkedin.com/in/mira-bernstein-1550a1137/">Mira Bernstein</a><br>
+Professor<br>
+Stanford University<br>
+<em> "Ramsey Theory:  Order from Chaos," 2016.</em><br>Held at MSRI</td>
+<td><a href="http://web.stanford.edu/~gdc/">Gabriel Carroll</a><br>
+Assistant Professor of Economics,<br>
+Stanford University<br>
+<em>"Auctions," 2015.</em><br>
+Held at MSRI</td>
+<td><a href="http://myslu.stlawu.edu/~svanderv/">Sam Vandervelde</a><br>
+Associate Professor of Mathematics,<br>
+St. Lawrence University<br>
+<em>"Graphing Groups in the Projective Plane," 2014.</em><br>
+Held at MSRI</td>
+</tr>
 <tr valign="bottom">
 <td></td>
 <td><img src="/archives/speakerImages/GabrielCarroll_BAMO2015.jpg" border="0"> </td>
