@@ -16,12 +16,12 @@ Candada/USA Math Camp<br>
 <td><a href="http://web.stanford.edu/~gdc/">Tadashi Tokieda</a><br>
 Professor of Mathematics <br>
 Stanford University<br>
-<em>"A Mini Magic Show, Between 2D and 3D," 2015.</em><br>
+<em>"A Mini Magic Show, Between 2D and 3D," 2018.</em><br>
 Held at MSRI</td>
 <td><a href="http://myslu.stlawu.edu/~svanderv/">Matthias Beck</a><br>
 Professor of Mathematics,<br>
 San Francisco State University<br>
-<em>"(-5 choose 12) and Other Combinatorial Reciprocity Instances," 2014.</em><br>
+<em>"(-5 choose 12) and Other Combinatorial Reciprocity Instances," 2017.</em><br>
 Held at MSRI</td>
 </tr>
 <tr valign="bottom">
