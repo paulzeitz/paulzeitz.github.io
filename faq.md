@@ -3,7 +3,7 @@ layout: page
 title: Frequently asked questions
 ---
 
-* [How hard?](this hard)
+* [How hard?](www.bamo.org)
 * Who is eligible?
 
 | this | is  | the | title | rows |
