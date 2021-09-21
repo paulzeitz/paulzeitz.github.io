@@ -13,10 +13,10 @@
 Chair, Board of Directors<br>
 Candada/USA Math Camp<br>
 <em> "A game you can't play (but would win if you could)," 2019.</em><br>Held at MSRI</td>
-<td><a href="http://web.stanford.edu/~gdc/">Gabriel Carroll</a><br>
-Chair, Board of Directors<br>
-Candada/USA Math Camp<br>
-<em>"Auctions," 2015.</em><br>
+<td><a href="http://web.stanford.edu/~gdc/">Tadashi Tokieda</a><br>
+Professor of Mathematics <br>
+Stanford University<br>
+<em>"A mini magic show, between 2D and 3D," 2015.</em><br>
 Held at MSRI</td>
 <td><a href="http://myslu.stlawu.edu/~svanderv/">Sam Vandervelde</a><br>
 Associate Professor of Mathematics,<br>
