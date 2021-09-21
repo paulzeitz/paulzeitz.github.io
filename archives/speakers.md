@@ -21,7 +21,7 @@ Held at MSRI</td>
 <td><a href="http://myslu.stlawu.edu/~svanderv/">Matthias Beck</a><br>
 Professor of Mathematics,<br>
 San Francisco State University<br>
-<em>"(-5 \choose 12)
+<em>"(-5 choose 12)
  and Other Combinatorial Reciprocity Instances," 2017.</em><br>
 Held at MSRI</td>
 </tr>
