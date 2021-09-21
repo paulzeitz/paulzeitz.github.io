@@ -12,7 +12,7 @@
 <td><a href="https://www.linkedin.com/in/mira-bernstein-1550a1137/">Mira Bernstein</a><br>
 Chair, Board of Directors<br>
 Candada/USA Math Camp<br>
-<em> "A Game You Can't Play (But Would Win If You Could)," 2019.</em><br>Held at MSRI</td>
+<em> "A Game You Can't Play (But Would Win If You Could $$ x^y $$)," 2019.</em><br>Held at MSRI</td>
 <td><a href="http://web.stanford.edu/~gdc/">Tadashi Tokieda</a><br>
 Professor of Mathematics <br>
 Stanford University<br>
