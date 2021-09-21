@@ -3,7 +3,7 @@ layout: page
 title: Frequently asked questions
 ---
 
-* How hard?
+* [How hard?](this hard)
 * Who is eligible?
 
 | this | is  | the | title | rows |
