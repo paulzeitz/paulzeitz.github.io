@@ -4,7 +4,7 @@ title: Frequently asked questions
 ---
 
 
-* _Who is eligible?_  BAMO12 is for anyone who is in grade 12 or below (full-time college students are not eligible, but if a high school student is taking some college courses while still in high school, that is OK).  BAMO8 is for anyone who is in grade 8 or below, unless they have previously scored a top award in BAMO8.
+* _Who is eligible?_   BAMO12 is for anyone who is in grade 12 or below (full-time college students are not eligible, but if a high school student is taking some college courses while still in high school, that is OK).  BAMO8 is for anyone who is in grade 8 or below, unless they have previously scored a top award in BAMO8.
 
 | this | is  | the | title | rows |
 |------|-----|-----|-------|------|
