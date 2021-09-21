@@ -12,16 +12,16 @@
 <td><a href="https://www.linkedin.com/in/mira-bernstein-1550a1137/">Mira Bernstein</a><br>
 Chair, Board of Directors<br>
 Candada/USA Math Camp<br>
-<em> "A game you can't play (but would win if you could)," 2019.</em><br>Held at MSRI</td>
+<em> "A Game You Can't Play (But Would Win If You Could)," 2019.</em><br>Held at MSRI</td>
 <td><a href="http://web.stanford.edu/~gdc/">Tadashi Tokieda</a><br>
 Professor of Mathematics <br>
 Stanford University<br>
-<em>"A mini magic show, between 2D and 3D," 2015.</em><br>
+<em>"A Mini Magic Show, Between 2D and 3D," 2015.</em><br>
 Held at MSRI</td>
-<td><a href="http://myslu.stlawu.edu/~svanderv/">Sam Vandervelde</a><br>
-Associate Professor of Mathematics,<br>
-St. Lawrence University<br>
-<em>"Graphing Groups in the Projective Plane," 2014.</em><br>
+<td><a href="http://myslu.stlawu.edu/~svanderv/">Matthias Beck</a><br>
+Professor of Mathematics,<br>
+San Francisco State University<br>
+<em>"(-5 choose 12) and Other Combinatorial Reciprocity Instances," 2014.</em><br>
 Held at MSRI</td>
 </tr>
 <tr valign="bottom">
