@@ -5,19 +5,25 @@ title: Frequently asked questions
 
 * **Registration/eligibility**
     * _Who is eligible?_   
-BAMO12 is for anyone who is in grade 12 or below (full-time college students are not eligible, but if a high school student is taking some college courses while still in high school, that is OK).  
-BAMO8 is for anyone who is in grade 8 or below, unless they have previously scored a top award in BAMO8.  
+BAMO-12 is for anyone who is in grade 12 or below (full-time college students are not eligible, but if a high school student is taking some college courses while still in high school, that is OK).  
+BAMO8 is for anyone who is in grade 8 or below, unless they have previously scored a top award in BAMO-8.  
 Originally, BAMO was restricted to students in schools in the San Francisco Bay Area.  In recent years, we have slowly expanded eligibility to include a few schools in the Pacific Northwest and Southern California. The number of students that we accomodate depends on how many people we have to grade the exams, so we cannot guarantee registration to all.  Just ask!
 
-    * How hard?  
-the next
     * _How do I register?_  
 Registration is done by schools or proctoring centers, such as math circles. We  send out an email in December to schools/proctoring centers that have been involved with BAMO in the past to register students to take the exam. We also will have the registration questionnaire available on the web site in December. The school/proctoring site needs a designated proctor who will administer the exam on-site.  If you wish to added to our email list, please click on this [link](https://forms.gle/pVCGWa71KXX8E9wz6).
     * _What if I am a student at a school and I cannot find a proctor?_  
 In this case, we will attempt to match you with a proctoring site nearby.  Usually another school or math circle will accommodate you. Most years, we have several dozen sites.
     * _What if I am home schooled? Can my parent or guardian be the proctor?_  
 In this case, you will not be able to take the exam at home.  You will need to find a nearby center to accommodate you.
-* prizes
+* **The BAMO Exam**
+    * _How do the BAMO-8 and BAMO-12 exams differ?_  
+    Both exams have 5 questions, with a four-hour time limit. The BAMO-8 problems are labeled A, B, C, D, E, in increasing order of difficulty. The BAMO-12 problems are labeled 1--5, in increasing order of difficulty, and generally the last two problems of BAMO-8 and the first two problems of BAMO-12 overlap, so that problems C, D, E in BAMO-8 are, respectively, problems 1, 2, 3 in BAMO-12.
+    * _How hard are the problems?_  
+    The key word is "problem." A _problem_, in contrast to an _exercise_, is a mathematical question that requires _investigation_ to solve. BAMO consists of, we hope, challenging and interesting problems. Our goal is for at more than half of the participants to solve or make very significant progress on the first problem in their exam, but that only a handful (perhaps 1 out of 50) get anywhere with the last problem.
+    * _How are the problems graded?_  
+    Each problem is worth 7 points, so a perfect score is 35 points.  Perfect scores are rare; perhaps one or two participants achieve this.  The median score is usual around 7 points (i.e., about half the students solve more than one problem, and about half solve less than one problem).
+    * _If this exam is so hard, why should I take it? I won't win!_
+    Winning is not the point!
 
 
 
