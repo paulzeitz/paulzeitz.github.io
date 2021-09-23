@@ -6,7 +6,7 @@ title: Frequently asked questions
 
 <details><summary><b>Registration/eligibility</b> </summary>
     
-    <p><i>Who is eligible?</i> 
+<p><i>Who is eligible?</i> 
 BAMO-12 is for anyone who is in grade 12 or below (full-time college students are not eligible, but if a high school student is taking some college courses while still in high school, that is OK).  
 BAMO8 is for anyone who is in grade 8 or below, unless they have previously scored a top award in BAMO-8.  
 Originally, BAMO was restricted to students in schools in the San Francisco Bay Area.  In recent years, we have slowly expanded eligibility to include a few schools in the Pacific Northwest and Southern California. The number of students that we accomodate depends on how many people we have to grade the exams, so we cannot guarantee registration to all.  Just ask!
