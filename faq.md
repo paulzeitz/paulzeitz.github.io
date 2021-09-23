@@ -5,10 +5,10 @@ title: Frequently asked questions
 ## collapsible markdown?
 
 <details><summary>CLICK ME</summary>
-<p>
+
 hee
 
-</p>
+
 </details>
 
 * **Registration/eligibility**
