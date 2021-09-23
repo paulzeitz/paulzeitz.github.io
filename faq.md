@@ -2,6 +2,19 @@
 layout: page
 title: Frequently asked questions
 ---
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
 
 * **Registration/eligibility**
     * _Who is eligible?_   
