@@ -7,8 +7,7 @@ title: Frequently asked questions
 <details><summary><b>Registration/eligibility</b> </summary>
 <ul>
   <li><details><summary>Coffee</summary>
-      
-      The explanation</details></li>
+ The explanation</details></li>
   <li>Tea</li>
   <li>Milk</li>
 </ul>
