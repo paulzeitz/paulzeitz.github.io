@@ -5,6 +5,13 @@ title: Frequently asked questions
 ## collapsible mark?
 
 <details><summary><b>Registration/eligibility</b> </summary>
+<ul>
+  <li><details><summary>Coffee</summary>
+      
+      The explanation</details></li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
     
 <p><i>Who is eligible?</i> 
 BAMO-12 is for anyone who is in grade 12 or below (full-time college students are not eligible, but if a high school student is taking some college courses while still in high school, that is OK).  
