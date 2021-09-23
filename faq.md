@@ -6,13 +6,13 @@ title: Frequently asked questions
 
 <details><summary><b>Registration/eligibility</b> </summary>
 
-<details><summary><b>Who is eligible?</b> </summary>   
+    <details><summary><b>Who is eligible?</b> </summary>   
 BAMO-12 is for anyone who is in grade 12 or below (full-time college students are not eligible, but if a high school student is taking some college courses while still in high school, that is OK).  
 BAMO8 is for anyone who is in grade 8 or below, unless they have previously scored a top award in BAMO-8.  
 Originally, BAMO was restricted to students in schools in the San Francisco Bay Area.  In recent years, we have slowly expanded eligibility to include a few schools in the Pacific Northwest and Southern California. The number of students that we accomodate depends on how many people we have to grade the exams, so we cannot guarantee registration to all.  Just ask!
 </details>
 
-   <details><summary><b>How do I register?</b> </summary>    
+    <details><summary><b>How do I register?</b> </summary>    
 Registration is done by schools or proctoring centers, such as math circles. We  send out an email in December to schools/proctoring centers that have been involved with BAMO in the past to register students to take the exam. We also will have the registration questionnaire available on the web site in December. The school/proctoring site needs a designated proctor who will administer the exam on-site.  If you wish to added to our email list, please click on this [link](https://forms.gle/pVCGWa71KXX8E9wz6).
 </details>
 
