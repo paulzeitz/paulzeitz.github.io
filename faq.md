@@ -2,7 +2,7 @@
 layout: page
 title: Frequently asked questions
 ---
-## collapsible mark?
+## collapsible mar?
 
 <details><summary><b>Registration/eligibility</b> </summary>
 <ul>
