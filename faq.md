@@ -31,7 +31,7 @@ In this case, you will not be able to take the exam at home.  You will need to f
     Both exams have 5 questions, with a four-hour time limit. The BAMO-8 problems are labeled A, B, C, D, E, in increasing order of difficulty. The BAMO-12 problems are labeled 1--5, in increasing order of difficulty, and generally the last two problems of BAMO-8 and the first two problems of BAMO-12 overlap, so that problems C, D, E in BAMO-8 are, respectively, problems 1, 2, 3 in BAMO-12.
   </details></li>
 <li><details><summary><i>How hard are the problems?</i> </summary> 
-    The key word is "problem." A _problem_, in contrast to an _exercise_, is a mathematical question that requires _investigation_ to solve. BAMO consists of, we hope, challenging and interesting problems. Our goal is for at more than half of the participants to solve or make very significant progress on the first problem in their exam, but that only a handful (perhaps 1 out of 50) get anywhere with the last problem.
+    The key word is "problem." A <i>problem</i>, in contrast to an <i>exercise</i>, is a mathematical question that requires <i>investigation</i> to solve. BAMO consists of, we hope, challenging and interesting problems. Our goal is for at more than half of the participants to solve or make very significant progress on the first problem in their exam, but that only a handful (perhaps 1 out of 50) get anywhere with the last problem.
   </details></li>
 * _How are the problems graded?_  
     Each problem is worth 7 points, so a perfect score is 35 points.  Perfect scores are rare; perhaps one or two participants achieve this.  The median score is usual around 7 points (i.e., about half the students solve more than one problem, and about half solve less than one problem).
