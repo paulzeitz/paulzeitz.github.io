@@ -20,9 +20,8 @@ In this case, we will attempt to match you with a proctoring site nearby.  Usual
     </details></li>
  <li><details><summary><i>What if I am home schooled? Can my parent or guardian be the proctor?</i> </summary>
 In this case, you will not be able to take the exam at home.  You will need to find a nearby center to accommodate you.
-   
+ </details></li>  
 </ul>
-    
 </details>
 
 <details><summary><b>The BAMO Exam</b> </summary>
