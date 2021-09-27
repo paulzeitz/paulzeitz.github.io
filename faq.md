@@ -20,18 +20,16 @@ In this case, we will attempt to match you with a proctoring site nearby.  Usual
     </details></li>
  <li><details><summary><i>What if I am home schooled? Can my parent or guardian be the proctor?</i> </summary>
 In this case, you will not be able to take the exam at home.  You will need to find a nearby center to accommodate you.
-  </details></li> 
+   
 </ul>
     
-
-
-
 </details>
 
 <details><summary><b>The BAMO Exam</b> </summary>
 
-* _How do the BAMO-8 and BAMO-12 exams differ?_  
+<li><details><summary><i>How do the BAMO-8 and BAMO-12 exams differ?</i> </summary>
     Both exams have 5 questions, with a four-hour time limit. The BAMO-8 problems are labeled A, B, C, D, E, in increasing order of difficulty. The BAMO-12 problems are labeled 1--5, in increasing order of difficulty, and generally the last two problems of BAMO-8 and the first two problems of BAMO-12 overlap, so that problems C, D, E in BAMO-8 are, respectively, problems 1, 2, 3 in BAMO-12.
+  </details></li>
 * _How hard are the problems?_  
     The key word is "problem." A _problem_, in contrast to an _exercise_, is a mathematical question that requires _investigation_ to solve. BAMO consists of, we hope, challenging and interesting problems. Our goal is for at more than half of the participants to solve or make very significant progress on the first problem in their exam, but that only a handful (perhaps 1 out of 50) get anywhere with the last problem.
 * _How are the problems graded?_  
