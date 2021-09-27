@@ -33,6 +33,10 @@ In this case, you will not be able to take the exam at home.  You will need to f
 <li><details><summary><i>How hard are the problems?</i> </summary> 
     The key word is "problem." A <i>problem</i>, in contrast to an <i>exercise</i>, is a mathematical question that requires <i>investigation</i> to solve. BAMO consists of, we hope, challenging and interesting problems. Our goal is for at more than half of the participants to solve or make very significant progress on the first problem in their exam, but that only a handful (perhaps 1 out of 50) get anywhere with the last problem.
   </details></li>
+ <li><details><summary><i>Why are those last problems so hard?</i> </summary> 
+    We have a very diverse group of participants.  Many are inexperienced folks that are relatively new to problem solving mathematics. For these students, we want to provide interesting problems that are relatively easy to investigate and enjoy.  But some participants are extremely experienced and highly skilled, including a few that are hoping to qualify for national or even international competitions. Therefore, some of our problems need to be so "hard" that they will separate the really experienced  from the extraordinarily experienced people.  We don't expect most participants to solve these problems during the time limit, but we try to make thse "hard" problems interesting to all.  We hope that even if you haven't solved a problem during the exam that you continue to think about it and perhaps discuss it with others.
+  </details></li>
+
 * _How are the problems graded?_  
     Each problem is worth 7 points, so a perfect score is 35 points.  Perfect scores are rare; perhaps one or two participants achieve this.  The median score is usual around 7 points (i.e., about half the students solve more than one problem, and about half solve less than one problem).
 * _If this exam is so hard, why should I take it? I won't win!_
