@@ -301,6 +301,6 @@ In this case, you will not be able to take the exam at home.  You will need to f
                                                             </tr>
                                                         </table>
                                                 
-                                </div>
+                                </div> 
                             
                    
