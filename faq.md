@@ -2,7 +2,7 @@
 layout: page
 title: Frequently asked questions
 ---
-## collapsible mm?
+
 
 <details><summary><b>Registration/eligibility</b> </summary>
 <ul>
@@ -26,6 +26,9 @@ In this case, you will not be able to take the exam at home.  You will need to f
 
 <details><summary><b>The BAMO Exam</b> </summary>
 <ul>
+<li><details><summary><i>How many people take the BAMO exam?</i> </summary>
+ During each of the past few years, nearly 500 people take BAMO-8 and about 200     take BAMO-12.
+   </details></li>
 <li><details><summary><i>How do the BAMO-8 and BAMO-12 exams differ?</i> </summary>
     Both exams have 5 questions, with a four-hour time limit. The BAMO-8 problems are labeled A, B, C, D, E, in increasing order of difficulty. The BAMO-12 problems are labeled 1--5, in increasing order of difficulty, and generally the last two problems of BAMO-8 and the first two problems of BAMO-12 overlap, so that problems C, D, E in BAMO-8 are, respectively, problems 1, 2, 3 in BAMO-12.
   </details></li>
@@ -33,7 +36,7 @@ In this case, you will not be able to take the exam at home.  You will need to f
     BAMO-8 problems include questions from logic, simple geometry, basic counting, and some algebra.  BAMO-12 problems may involve more advanced algebra, such as complex numbers, and possibly trigonometry, along with more advanced geometric ideas and more adanced counting concepts (more formally, combinatorics). No problems use or involve calculus. Please see our archive of <a href="https://paulzeitz.github.io/archives/problems_and_solutions/">past problems and solutions</a> for examples.
   </details></li>
 <li><details><summary><i>How hard are the problems?</i> </summary> 
-    The key word is "problem." A <i>problem</i>, in contrast to an <i>exercise</i>, is a mathematical question that requires <i>investigation</i> to solve. BAMO consists of, we hope, challenging and interesting problems. Our goal is for at more than half of the participants to solve or make very significant progress on the first problem in their exam, but that only a handful (perhaps 1 out of 50) get anywhere with the last problem.
+    The key word is "problem." A <i>problem</i>, in contrast to an <i>exercise</i>, is a mathematical question that requires <i>investigation</i> to solve. BAMO consists of, we hope, challenging and interesting problems. Usually the majority  of the participants   solve or make very significant progress on the first problem in their exam, but   only a handful (perhaps 1 out of 50) make any progress with the last problem.
   </details></li>
  <li><details><summary><i>Why are those last problems so hard?</i> </summary> 
     We have a very diverse group of participants.  Many are inexperienced folks that are relatively new to problem solving mathematics. For these students, we want to provide interesting problems that are relatively easy to investigate and enjoy.  But some participants are extremely experienced and highly skilled, including a few that are hoping to qualify for national or even international competitions. Therefore, some of our problems need to be so "hard" that they will separate the really experienced  from the extraordinarily experienced people.  We don't expect most participants to solve these problems during the time limit, but we try to make thse "hard" problems interesting to all.  We hope that even if you haven't solved a problem during the exam that you continue to think about it and perhaps discuss it with others.
