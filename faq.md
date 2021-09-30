@@ -27,7 +27,7 @@ In this case, you will not be able to take the exam at home.  You will need to f
 <details><summary><b>The BAMO Exam</b> </summary>
 <ul>
 <li><details><summary><i>How many people take the BAMO exam?</i> </summary>
- During each of the past few years, nearly 500 people take BAMO-8 and about 200     take BAMO-12.
+ During each of the past few years, nearly 500 people took BAMO-8 and about 200     took BAMO-12.
    </details></li>
 <li><details><summary><i>How do the BAMO-8 and BAMO-12 exams differ?</i> </summary>
     Both exams have 5 questions, with a four-hour time limit. The BAMO-8 problems are labeled A, B, C, D, E, in increasing order of difficulty. The BAMO-12 problems are labeled 1--5, in increasing order of difficulty, and generally the last two problems of BAMO-8 and the first two problems of BAMO-12 overlap, so that problems C, D, E in BAMO-8 are, respectively, problems 1, 2, 3 in BAMO-12.
@@ -45,8 +45,12 @@ In this case, you will not be able to take the exam at home.  You will need to f
 <li><details><summary><i>How are the problems graded?</i> </summary>  
     Each problem is worth 7 points, so a perfect score is 35 points.  Perfect scores are rare; perhaps one or two participants achieve this.  The median score is usually around 7 points (i.e., about half the students solve more than one problem, and about half solve less than one problem).
     </details></li>
-* _If this exam is so hard, why should I take it? I won't win!_
-    Winning is not the point!
+<li><details><summary><i>If this exam is so hard, why should I take it? I won't win!</i> </summary>  
+    "Winning" is not the point! BAMO is a fun challenge. For most people, even people who love math, it is a new experience to spend four hours doing nothing but thinking deeply about mathematics. And you will meet other people who share your interests.  And the awards ceremony, open to all participants, is another great experience.
+   </details></li>
+  <li><details><summary><i>Tell me more about the awards ceremony. Are there prizes?</i> </summary>  
+    A week or so after the graders finish their work, we have an awards ceremony (held at <a href="https://msri.org">MSRI</a> since 2006) that features a talk by an excellent mathematician, followed by announcements of the top scoring individuals and teams. Prize winners receive cash, books, certificates, sometimes trophies or mathematical scultpures. Winning teams get certificates for food.  While it is certainly an honor to get an award, the real point of the awards ceremony is to celebrate mathematics itself. <a href="https://paulzeitz.github.io/archives/speakers/">Here</a>  is list of past speakers.
+   </details></li>
 </ul>
 </details>
 
