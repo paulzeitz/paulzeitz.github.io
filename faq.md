@@ -4,7 +4,7 @@ title: Frequently asked questions
 ---
 
 
-<details><summary><h3><b>Registration/eligibility</b></h3></summary>
+<details><summary><h3><b>Registration and eligibility</b></h3></summary>
 <ul>
   <li><details><summary><i>Who is eligible?</i> </summary>
 BAMO-12 is for anyone who is in grade 12 or below (full-time college students are not eligible, but if a high school student is taking some college courses while still in high school, that is OK).  
