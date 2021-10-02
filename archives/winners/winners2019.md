@@ -240,4 +240,4 @@ layout: minimal
                                                             </tr>
                                                         </table>
                                                 
-                                </div> b
+                                </div> 
