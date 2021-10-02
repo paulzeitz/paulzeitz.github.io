@@ -1,4 +1,4 @@
-<h2 Frequently asked questions<\h2>
+<h2> Frequently asked questions<\h2>
 
 
 <details><summary><font size="+2"><b>Registration and eligibility</b></font></summary>
