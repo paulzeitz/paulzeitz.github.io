@@ -123,7 +123,7 @@ layout: minimal
                                                         </table>
                                                         <br>
                                                         <br>
-                                                
+                                                      </td>
                                                 <td>
                                                     <div align="center">
                                                         <h2>BAMO 12</h2>
