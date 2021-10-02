@@ -124,7 +124,9 @@ layout: minimal
                                                         <br>
                                                         <br>
                                                       </td>
+                                                   </div>
                                                 <td>
+                                         
                                                     <div align="center">
                                                         <h2>BAMO 12</h2>
                                                         <table cellpadding="10" border="2">
