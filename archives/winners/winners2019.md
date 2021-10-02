@@ -1,3 +1,7 @@
+---
+layout: page
+title: Frequently asked questions
+---
 <tr valign="top">
                 <td align="center">
                     <table border="0" width="400">
