@@ -123,7 +123,7 @@ layout: minimal
                                                         </table>
                                                         <br>
                                                         <br>
-                                                      </td>
+                                                     
                                                  
                                                 <td>
                                          
