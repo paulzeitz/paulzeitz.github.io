@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Frequently asked questions
+layout: minimal
+
 ---
 <tr valign="top">
                 <td align="center">
