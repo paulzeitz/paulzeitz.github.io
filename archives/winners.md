@@ -2,7 +2,7 @@
 
 
 
-* [2020](bamo2020examsol.pdf)
+* [2020](https://drive.google.com/file/d/1DcAWHdyL8ZwbbJKxb2ImiL-2X-3aL8Se/view)
 * [2019](bamo2019examsol.pdf)
 * [2018](BAMO2018ProblemsAndSolutions.pdf)
 * [2017](bamo2017examsol.pdf)
