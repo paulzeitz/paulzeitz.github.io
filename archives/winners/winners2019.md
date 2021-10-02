@@ -124,7 +124,7 @@ layout: minimal
                                                         <br>
                                                         <br>
                                                       </td>
-                                                   </div>
+                                                 
                                                 <td>
                                          
                                                     <div align="center">
