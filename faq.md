@@ -24,7 +24,7 @@ In this case, you will not be able to take the exam at home.  You will need to f
 </ul>
 </details>
 
-<details><summary><b>The BAMO Exam</b> </summary>
+<details><summary><font size="+2"><b>The BAMO Exam</b></font></summary>
 <ul>
 <li><details><summary><i>How many people take the BAMO exam?</i> </summary>
  During each of the past few years, nearly 500 people took BAMO-8 and about 200     took BAMO-12.
