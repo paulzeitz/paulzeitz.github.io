@@ -10,8 +10,8 @@
 * [2015](bamo2015-problems-and-solutions.pdf)
 * [2014](bamo2014-problems-and-solutions.pdf)
 * [2013](bamo2013examsol.pdf)
-* [2012]
-* [2011]
+* [2012](bamo2012examsol.pdf)
+* [2011](bamo2011examsol.pdf)
 * [2010]
 * [2009](bamo2009examsol.pdf)
 * [2008]
