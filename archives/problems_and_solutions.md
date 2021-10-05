@@ -21,7 +21,7 @@
 * [2004](examfiles/bamo2004examsol.pdf)
 * [2003](examfiles/bamo2003examsol.pdf)
 * [2002](examfiles/bamo2002problems-and-solns.pdf)
-* [2001]
-* [2000]
+* [2001](examfiles/bamo2001examsol.pdf)
+* [2000](examfiles/bamo2000examsol.pdf)
 * [1999](examfiles/bamo99draft.pdf)
 
