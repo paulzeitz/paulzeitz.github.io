@@ -77,12 +77,6 @@
 <td class="sidebar2">&nbsp;</td>
 </tr>
 </table>
-</p>
-<script src="../../urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-2466763-5";
-urchinTracker();
-</script>
+
   </body>
 </html>
