@@ -4,7 +4,7 @@
 
 <tr valign="top"><td align="center">
 <table border="0" width="400"><tr valign="top"><td><div class="textbox">
-<div class="text">
+
 <h1>2017a Prize Winners</h1>
 <table height="600" border="0" cellpadding="10">
 <tr valign="top">
@@ -60,10 +60,10 @@
 </table>
 </td></tr>
 </table>
-</div>
-</div></td></tr></table>
+
+</td></tr></table>
 <table cellpadding="50"><tr><td>
-<font = "small">BAMO is supported by grants and donations.  Please contact <a href="mailto:bamo@msri.org">bamo@msri.org</a> to help sponsor this year's contest.
+BAMO is supported by grants and donations.  Please contact <a href="mailto:bamo@msri.org">bamo@msri.org</a> to help sponsor this year's contest.
 </td></tr></table>
 </td></tr>
 </table>
