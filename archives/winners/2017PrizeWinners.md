@@ -1,7 +1,5 @@
 
-<html>
 
-<body>
 <center>
 
 <tr valign="top"><td align="center">
@@ -74,5 +72,4 @@
 </tr>
 </table>
 
-  </body>
-</html>
+  
