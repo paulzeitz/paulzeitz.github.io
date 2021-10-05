@@ -12,7 +12,7 @@
 * [2013](examfiles/bamo2013examsol.pdf)
 * [2012](examfiles/bamo2012examsol.pdf)
 * [2011](examfiles/bamo2011examsol.pdf)
-* [2010]
+* [2010](examfiles/bamo2010examsol.pdf)
 * [2009](examfiles/bamo2009examsol.pdf)
 * [2008]
 * [2007]
