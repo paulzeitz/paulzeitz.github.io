@@ -5,7 +5,7 @@
 <tr valign="top"><td align="center">
 <table border="0" width="400"><tr valign="top"><td><div class="textbox">
 
-<h1>2017a Prize Winners</h1>
+<h1>2017 Prize Winners</h1>
 <table height="600" border="0" cellpadding="10">
 <tr valign="top">
 <td>
@@ -58,10 +58,7 @@
 <tr><td>Second Place Team Participation</td><td>The Harker School</td></tr>
 <tr><td>Third Place Team Participation</td><td>Proof School</td></tr>
 </table>
-</td></tr>
-</table>
 
-</td></tr></table>
 <table cellpadding="50"><tr><td>
 BAMO is supported by grants and donations.  Please contact <a href="mailto:bamo@msri.org">bamo@msri.org</a> to help sponsor this year's contest.
 
