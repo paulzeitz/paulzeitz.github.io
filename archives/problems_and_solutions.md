@@ -19,7 +19,7 @@
 * [2006](examfiles/bamo2006examsol.pdf)
 * [2005](examfiles/bamo2005examsol.pdf)
 * [2004](examfiles/bamo2004examsol.pdf)
-* [2003]
+* [2003](examfiles/bamo2003examsol.pdf)
 * [2002](examfiles/bamo2002problems-and-solns.pdf)
 * [2001]
 * [2000]
