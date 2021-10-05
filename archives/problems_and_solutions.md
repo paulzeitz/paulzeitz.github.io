@@ -14,11 +14,11 @@
 * [2011](examfiles/bamo2011examsol.pdf)
 * [2010](examfiles/bamo2010examsol.pdf)
 * [2009](examfiles/bamo2009examsol.pdf)
-* [2008]
-* [2007]
-* [2006]
-* [2005]
-* [2004]
+* [2008](examfiles/bamo2008examsol.pdf)
+* [2007](examfiles/bamo2007examsol.pdf)
+* [2006](examfiles/bamo2006examsol.pdf)
+* [2005](examfiles/bamo2005examsol.pdf)
+* [2004](examfiles/bamo2004examsol.pdf)
 * [2003]
 * [2002](examfiles/bamo2002problems-and-solns.pdf)
 * [2001]
