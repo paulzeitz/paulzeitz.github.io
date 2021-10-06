@@ -1,12 +1,4 @@
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-<link href="../../bamo/bamo.css" rel="stylesheet" type="text/css">
-<title>
-pastWinners 
-</title>
-</head>
-<body>
+
 <center>
 <table width="100%" border="0" height="100%" cellspacing="0" cellpadding="0" class="main">
 <tr valign="top"><td class="sidebar">&nbsp;</td>
@@ -121,12 +113,3 @@ pastWinners
 <td class="sidebar2">&nbsp;</td>
 </tr>
 </table>
-</p>
-<script src="../../urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-2466763-5";
-urchinTracker();
-</script>
-  </body>
-</html>
