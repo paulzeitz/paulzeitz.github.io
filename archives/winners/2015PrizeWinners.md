@@ -4,7 +4,7 @@
 <tr valign="top"><td align="center">
 <table border="0" width="400"><tr valign="top"><td><div class="textbox">
 
-<h1>2015a Prize Winners</h1>
+<h1>2015 Prize Winners</h1>
 <table height="600" border="0" cellpadding="10">
 <tr valign="top">
 <td>
