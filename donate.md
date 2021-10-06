@@ -1,1 +1,1 @@
-<h2> Donate <\h2>
+<h2> Donate </h2>
