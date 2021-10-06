@@ -1,17 +1,9 @@
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 
-<title>
-pastWinners 
-</title>
-</head>
-<body>
 <center>
 
 <tr valign="top"><td align="center">
 <table border="0" width="400"><tr valign="top"><td><div class="textbox">
-<div class="text">
+ 
 <h1>2016 Prize Winners</h1>
 <table height="600" border="0" cellpadding="10">
 <tr valign="top">
@@ -71,15 +63,5 @@ pastWinners
 </div>
 </div></td></tr></table>
 <table cellpadding="50"><tr><td>
-<font = "small">BAMO is supported by grants and donations.  Please contact <a href="mailto:bamo@msri.org">bamo@msri.org</a> to help sponsor this year's contest.
-</td></tr></table>
-</td></tr>
-</table>
-</td>
-<td class="sidebar2">&nbsp;</td>
-</tr>
-</table>
-</p>
+BAMO is supported by grants and donations.  Please contact <a href="mailto:bamo@msri.org">bamo@msri.org</a> to help sponsor this year's contest.
 
-  </body>
-</html>
