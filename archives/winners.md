@@ -4,7 +4,7 @@
 
 * [2020](https://drive.google.com/file/d/1DcAWHdyL8ZwbbJKxb2ImiL-2X-3aL8Se/view)
 * [2019](winners/winners2019.md)
-* [2018](winners/2018PrizeWinners.html)
+* [2018](winners/2018PrizeWinners.md)
 * [2017](winners/2017PrizeWinners.md)
 * [2016](winners/2016PrizeWinners.html)
 * [2015](winners/2015PrizeWinners.html)
