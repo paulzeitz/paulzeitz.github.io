@@ -3,7 +3,7 @@
 
 <tr valign="top"><td align="center">
 <table border="0" width="400"><tr valign="top"><td><div class="textbox">
-<div class="text">
+
 <h1>2009 Prize Winners</h1>
 <table height="600" border="0" cellpadding="10">
 <tr valign="top">
@@ -36,7 +36,7 @@
 </table>
 <br>
 <br>
-</td>
+
 <td>
 <div align="center">
 <h2>BAMO 12</h2>
@@ -63,21 +63,5 @@
 <tr><td>Second Place Team Participation</td><td>The Harker School</td></tr>
 <tr><td>Third Place Team Participation</td><td>Cupertino High School</td></tr>
 <tr><td>Third Place Team Participation</td><td>Henry M Gunn High School</td></tr>
-</table>
-</td></tr>
-</table>
-</div>
-</div></td></tr></table>
-<table cellpadding="50"><tr><td>
-<font = "small">BAMO is supported by grants and donations.  Please contact <a href="mailto:bamo@msri.org">bamo@msri.org</a> to help sponsor this year's contest.
-</td></tr></table>
-</td></tr>
-</table>
-</td>
-<td class="sidebar2">&nbsp;</td>
-</tr>
-</table>
-</p>
 
-  </body>
-</html>
+  BAMO is supported by grants and donations.  Please contact <a href="mailto:bamo@msri.org">bamo@msri.org</a> to help sponsor this year's contest.
