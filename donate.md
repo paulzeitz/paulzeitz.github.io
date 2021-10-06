@@ -4,4 +4,4 @@ Since its inception more than twenty years ago, BAMO has been a collaboration be
 
 Many generous individuals and foundations have supported BAMO over the years.  We are especially grateful to Nancy Blachman, Tom Davis and Ellyn Bush, Peggy and Tom Rike, Tim and Barbara Sylvester, Alexander Vaschillo, and  Jonathan Zhu.
 
-Please consider donating to keep BAMO going! For questions about donations, please email
+BAMO depends on your support! Please contact <a href="mailto:bamo@msri.org">bamo@msri.org</a> to help sponsor this year's contest.
