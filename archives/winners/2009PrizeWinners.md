@@ -1,12 +1,4 @@
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-<link href="../../bamo/bamo.css" rel="stylesheet" type="text/css">
-<title>
-pastWinners 
-</title>
-</head>
-<body>
+
 <center>
 
 <tr valign="top"><td align="center">
