@@ -1,28 +1,9 @@
 
 <center>
-<table width="100%" border="0" height="100%" cellspacing="0" cellpadding="0" class="main">
-<tr valign="top"><td class="sidebar">&nbsp;</td>
-<td class="midbar">
-<table class="common" border="0" cellspacing="0" cellpadding="0">
-<tr valign="top"><td height="136"><div class="home"><a href="../../pastWinners/index_html/"><img src="../../bamo/siteimages/home.gif" border="0" alt="Welcome to the BAMO Web Site!"></a></div><div class="title"><img src="../../bamo/siteimages/archives.jpg" border="0"></div></td></tr>
-<tr valign="top"><td align="right" height="50"><table border="0">
-<tr valign="bottom">
-<td class="menuitem"><a href="http://hosted.msri.org/bamo/index_html" class="menuitem"><div>Home</div></a></td>
-<td class="menuitem"><a href="http://hosted.msri.org/bamo/info" class="menuitem"><div>Info</div></a></td>
-<td class="menuitem"><a href="http://hosted.msri.org/bamo/apply" class="menuitem"><div>Apply</div></a></td>
-<td class="menuitem"><a href="http://hosted.msri.org/bamo/instructions" class="menuitem"><div>Instructions</div></a></td>
-<td class="menuitem"><a href="http://hosted.msri.org/bamo/sponsors" class="menuitem"><div>Sponsors</div></a></td>
-<tr valign="bottom">
-<td class="menuitemblank">&nbsp;</td>
-<td class="menuitemover"><a href="http://hosted.msri.org/bamo/archives" class="menuitem"><div>Archives</div></a></td>
-<td class="menuitem"><a href="http://hosted.msri.org/bamo/speakers" class="menuitem"><div>Speakers</div></a></td>
-<td class="menuitem"><a href="http://hosted.msri.org/bamo/history" class="menuitem"><div>History</div></a></td>
-<td class="menuitem"><a href="http://hosted.msri.org/bamo/links" class="menuitem"><div>Links</div></a></td></tr>
-</tr>
-</table></td></tr>
+
 <tr valign="top"><td align="center">
 <table border="0" width="400"><tr valign="top"><td><div class="textbox">
-<div class="text">
+
 <h1>2018 Prize Winners</h1>
 <table height="800" border="0" cellpadding="10">
 <tr valign="top">
@@ -105,7 +86,7 @@
 </div>
 </div></td></tr></table>
 <table cellpadding="50"><tr><td>
-<font = "small">BAMO is supported by grants and donations.  Please contact <a href="mailto:bamo@msri.org">bamo@msri.org</a> to help sponsor this year's contest.
+BAMO is supported by grants and donations.  Please contact <a href="mailto:bamo@msri.org">bamo@msri.org</a> to help sponsor this year's contest.
 </td></tr></table>
 </td></tr>
 </table>
