@@ -8,7 +8,7 @@
 * [2017](winners/2017PrizeWinners.md)
 * [2016](winners/2016PrizeWinners.md)
 * [2015](winners/2015PrizeWinners.md)
-* [2014](winners/2045PrizeWinners.md)
+* [2014](winners/2014PrizeWinners.md)
 * [2013](winners/2013PrizeWinners.md)
 * [2012](winners/2012PrizeWinners.md)
 * [2011](winners/2011PrizeWinners.md)
