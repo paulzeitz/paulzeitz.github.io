@@ -81,16 +81,8 @@
 <tr><td>Second Place Team Participation</td><td>Proof School</td></tr>
 <tr><td>Third Place Team Participation</td><td>Lynbrook HS</td></tr>
 </table>
-</td></tr>
-</table>
-</div>
-</div></td></tr></table>
+
+
 <table cellpadding="50"><tr><td>
 BAMO is supported by grants and donations.  Please contact <a href="mailto:bamo@msri.org">bamo@msri.org</a> to help sponsor this year's contest.
-</td></tr></table>
-</td></tr>
-</table>
-</td>
-<td class="sidebar2">&nbsp;</td>
-</tr>
-</table>
+
