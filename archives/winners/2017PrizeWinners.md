@@ -62,7 +62,7 @@
 <table cellpadding="50"><tr><td>
 BAMO is supported by grants and donations.  Please contact <a href="mailto:bamo@msri.org">bamo@msri.org</a> to help sponsor this year's contest.
 
-</td>
+
 
 </tr>
 </table>
