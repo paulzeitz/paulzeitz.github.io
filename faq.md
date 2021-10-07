@@ -49,6 +49,13 @@ In this case, you will not be able to take the exam at home.  You will need to f
     A week or so after the graders finish their work, we have an awards ceremony (held at <a href="https://www.msri.org">MSRI</a> since 2006) that features a talk by an excellent mathematician, followed by announcements of the top scoring individuals and teams. Prize winners receive cash, books, certificates, sometimes trophies or mathematical scultpures. Winning teams get certificates for food.  While it is certainly an honor to get an award, the real point of the awards ceremony is to celebrate mathematics itself. <a href="https://paulzeitz.github.io/archives/speakers/">Here</a>  is list of past speakers.
    </details></li>
 </ul>
+  
+  <details><summary><font size="+2"><b>The BAMO Exam</b></font></summary>
+    <ul>
+<li><details><summary><i>How many people take the BAMO exam?</i> </summary>
+  During each of the past few years, nearly 500 <a href ="https://mathcircles.org"peopl</a> e took BAMO-8 and about 200     took BAMO-12.
+   </details></li>
+    </ul>
 </details>
 
 
