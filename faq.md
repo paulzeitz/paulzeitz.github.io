@@ -51,13 +51,15 @@ In this case, you will not be able to take the exam at home.  You will need to f
 </ul>
   </details>
   
-  <details><summary><font size="+2"><b>The BAMO Exam</b></font></summary>
+  <details><summary><font size="+2"><b>Preparing for the BAMO exam</b></font></summary>
     <ul>
-<li><details><summary><i>How many people take the BAMO exam?</i> </summary>
-  During each of the past few years, nearly 500 <a href ="https://mathcircles.org">peopl</a> e took BAMO-8 and about 200     took BAMO-12.
-   </details></li>
- <li><details><summary><i>How many people take the BAMO exam?</i> </summary>
-  During each of the past few years, nearly 500 <a href ="https://mathcircles.org">peopl</a> e took BAMO-8 and about 200     took BAMO-12.
+<li><details><summary><i>I'm a complete beginner.  How do I get good at this stuff?</i> </summary>
+  There's good news and bad news.  The bad news is that mastery of mathematical problem solving, like any other meaningful endeavor, takes time and effort.  The good news is that all you need is to love math; there are plenty of resources to help you learn more: local math circles, books, and a great online community.  Read on!
+  </details></li>
+  
+ <li><details><summary><i>Tell me more about math circles!</i> </summary>
+   A math circle is a special kind of math club that features a problem-solving curriculum in a friendly, inclusive environment, facilitated often by professional mathematicians who are eager to share "folklore" with newcomers.  There are literally hundreds of math circles around the country; click this
+  <a href ="https://mathcircles.org">link</a> for more information. The BAMO exam was created in tandem with the <a href = "https://mathcircle.berkeley.edu">Berkeley Math Circle</a> so that circle participants would have a contest to engage them. That does not mean that the Berkeley Math Circle, or any other math circle for that matter, is especially contest-focused.  Different circles have different cultures, but they all have a love of math and collaborative problem solving in common.
    </details></li>
     </ul>
 </details>
