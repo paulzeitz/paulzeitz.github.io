@@ -61,6 +61,9 @@ In this case, you will not be able to take the exam at home.  You will need to f
    A math circle is a special kind of math club that features a problem-solving curriculum in a friendly, inclusive environment, facilitated often by professional mathematicians who are eager to share "folklore" with newcomers.  There are literally hundreds of math circles around the country; click this
   <a href ="https://mathcircles.org">link</a> for more information. The BAMO exam was created in tandem with the <a href = "https://mathcircle.berkeley.edu">Berkeley Math Circle</a> so that circle participants would have a contest to engage them. That does not mean that the Berkeley Math Circle, or any other math circle for that matter, is especially contest-focused.  Different circles have different cultures, but they all have a love of math and collaborative problem solving in common.
    </details></li>
+ <li><details><summary><i>Tell me more about an online community!</i> </summary>
+   Students interested in becoming better problem solvers need a peer group, and math circles can provide that.  But sometimes a math circle is inconvenient, so an online peer group is very helpful.  The Art of Problem Solving (AoPS) is a gigantic international forum with many thousands of math-loving people, containing many sub-communities and classes and lots of other helpful resources. If you haven't already joined, please visit  <a href ="https://artofproblemsolving.com">AoPS</a> to learn more about this remarkable community.
+   </details></li>
     </ul>
 </details>
 
