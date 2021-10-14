@@ -69,7 +69,7 @@ In this case, you will not be able to take the exam at home.  You will need to f
      <ul>
      <li>AoPS publishes a number of excellent books at a variety of levels.  Visit their <a href = "https://artofproblemsolving.com/store">bookstore</a> for more details.  In particular, the "Beast Academy" series is aimed at younger students.
        </li>
-     <li> Likewise, the Berkelely Math Circle has a  with suggested <a href = "https://mathcircle.berkeley.edu/books">link</a> with suggested books at a variety of levels, including works written and edited by Zvezdelina Stankova, one of the founders of BAMO.
+     <li> Likewise, the Berkelely Math Circle has a    <a href = "https://mathcircle.berkeley.edu/books">link</a> with suggested books at a variety of levels, including works written and edited by Zvezdelina Stankova, one of the founders of BAMO.
        </li>
        <li> Paul Zeitz, one of the founders of BAMO, wrote <i>The Art and Craft of Problem Solving</i> for more advanced audiences (college students preparing for the <a href="https://www.maa.org/math-competitions/putnam-competition">Putnam Exam</a>), but this book has become popular with high school students as well.  Electronic versions can be found at the publisher's  <a href ="https://www.wiley.com/en-us/The+Art+and+Craft+of+Problem+Solving%2C+3rd+Edition-p-9781119239901"> website</a> and physical copies can be found from the usual websites.  Additionally, Zeitz made a <a href="https://www.thegreatcourses.com/courses/art-and-craft-of-mathematical-problem-solving">video course</a> with the same title.
        </li>
