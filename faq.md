@@ -64,13 +64,15 @@ In this case, you will not be able to take the exam at home.  You will need to f
  <li><details><summary><i>Tell me more about an online community!</i> </summary>
    Students interested in becoming better problem solvers need a peer group, and math circles can provide that.  But sometimes a math circle is inconvenient, so an online peer group is very helpful.  The Art of Problem Solving (AoPS) is a gigantic international forum with many thousands of math-loving people, with numerous sub-communities and classes and lots of other helpful resources. If you haven't already joined, please visit  <a href ="https://artofproblemsolving.com">AoPS</a> to learn more about this remarkable community.
    </details></li>
-   <li><details><summary><i>I'm old fashioned! Tell me more about books!</i> </summary>
+   <li><details><summary><i>Tell me more about books!</i> </summary>
    Whether you do math online with a community like AoPS, or in a math circle, or on your own, you need to read.  There are tons of books and other written resources out there, so sometimes it is good to have a small list of recommended books. Here are some suggestions.
      <ul>
-     <li>one
-       <\li>
-     <li>two
-       <\li>
+     <li>AoPS publishes a number of excellent books at a variety of levels.  Visit their <a href = "https://artofproblemsolving.com/store">bookstore</a> for more details.  In particular, the "Beast Academy" series is aimed at younger students.
+       </li>
+     <li> Likewise, the Berkelely Math Circle has a  with suggested <a href = "https://mathcircle.berkeley.edu/books">link</a> with suggested books at a variety of levels.
+       </li>
+       <li> Paul Zeitz, one of the founders of BAMO, wrote <i>The Art and Craft of Problem Solving</i> for more advanced audiences (college students preparing for the <a href="https://www.maa.org/math-competitions/putnam-competition">Putnam Exam</a>), but this book has become popular with high school students as well.  Electronic versions can be found at the publisher's  <a href ="https://www.wiley.com/en-us/The+Art+and+Craft+of+Problem+Solving%2C+3rd+Edition-p-9781119239901"> website</a> and physical copies can be found from the usual websites.  Additionally, Zeitz made a <a href="https://www.thegreatcourses.com/courses/art-and-craft-of-mathematical-problem-solving">video course</a> with the same title.
+       </li>
      </ul>
    </details></li>
     </ul>
