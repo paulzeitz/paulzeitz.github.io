@@ -66,8 +66,12 @@ In this case, you will not be able to take the exam at home.  You will need to f
    </details></li>
    <li><details><summary><i>I'm old fashioned! Tell me more about books!</i> </summary>
    Whether you do math online with a community like AoPS, or in a math circle, or on your own, you need to read.  There are tons of books and other written resources out there, so sometimes it is good to have a small list of recommended books. Here are some suggestions.
-     * one
-     * two
+     <ul>
+     <li>one
+       <\li>
+     <li>two
+       <\li>
+     </ul>
    </details></li>
     </ul>
 </details>
