@@ -62,7 +62,12 @@ In this case, you will not be able to take the exam at home.  You will need to f
   <a href ="https://mathcircles.org">link</a> for more information. The BAMO exam was created in tandem with the <a href = "https://mathcircle.berkeley.edu">Berkeley Math Circle</a> so that circle participants would have a contest to engage them. That does not mean that the Berkeley Math Circle, or any other math circle for that matter, is especially contest-focused.  Different circles have different cultures, but they all have a love of math and collaborative problem solving in common.
    </details></li>
  <li><details><summary><i>Tell me more about an online community!</i> </summary>
-   Students interested in becoming better problem solvers need a peer group, and math circles can provide that.  But sometimes a math circle is inconvenient, so an online peer group is very helpful.  The Art of Problem Solving (AoPS) is a gigantic international forum with many thousands of math-loving people, containing many sub-communities and classes and lots of other helpful resources. If you haven't already joined, please visit  <a href ="https://artofproblemsolving.com">AoPS</a> to learn more about this remarkable community.
+   Students interested in becoming better problem solvers need a peer group, and math circles can provide that.  But sometimes a math circle is inconvenient, so an online peer group is very helpful.  The Art of Problem Solving (AoPS) is a gigantic international forum with many thousands of math-loving people, with numerous sub-communities and classes and lots of other helpful resources. If you haven't already joined, please visit  <a href ="https://artofproblemsolving.com">AoPS</a> to learn more about this remarkable community.
+   </details></li>
+   <li><details><summary><i>I'm old fashioned! Tell me more about books!</i> </summary>
+   Whether you do math online with a community like AoPS, or in a math circle, or on your own, you need to read.  There are tons of books and other written resources out there, so sometimes it is good to have a small list of recommended books. Here are some suggestions.
+     * one
+     * two
    </details></li>
     </ul>
 </details>
