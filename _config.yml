@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Ba Area Mathematical Olympiad
+title: Bay Area Mathematical Olympiad
 
 # Your name to show in the footer
 author: bamo.org
@@ -105,7 +105,7 @@ post_search: true
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#00FFFF"
+page-col: "#33FF61"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
