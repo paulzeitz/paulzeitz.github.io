@@ -234,9 +234,12 @@ exclude:
   - screenshot.png
   - docs/
 
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
