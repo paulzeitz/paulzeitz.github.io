@@ -1,4 +1,4 @@
-<h2> San Francisco Math Teachers</h2>
+<h2> San Francisco Math Teachers' Circle</h2>
 
 Welcome to the San Francisco Math Teachers’ Circle! Founded in 2016, we are a professional community of teachers and mathematicians who love solving fun, challenging math problems. The SFMTC offers monthly Saturday meetings for math teachers interested in exploring accessible, exciting topics in mathematics. All teachers are welcome to attend. Meetings include lunch, which is complimentary.
 
