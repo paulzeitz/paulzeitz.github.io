@@ -15,7 +15,7 @@ The San Francisco Math Teachers’ Circle will be meeting  at
 
 | date  | facilitator   | topic   | handout  |   
 |---|---|---|---|
-|30 Oct 2021   | Paul Zeitz   | balloon polyhedra, etc.    | [x](sftmc-stuff/SFMTC211030.pdf)  |   
+|30 Oct 2021   | Paul Zeitz   | balloon polyhedra, etc.    | [x](paulzeitz.github.io/sftmc-stuff/SFMTC211030.pdf)  |   
 | 11 Dec 2021   | Anna Weltman   | TBA   |  |   
 |12 Feb 2022 | TBA   |   |   |   
 |12 Mar 2022| TBA|  |  |  
