@@ -13,12 +13,15 @@ Proof School, 973 Mission St., San Francisco, CA 94103.  Our sessions take place
 11 Dec 2021
 
 12 Feb 2022
+.
 
 12 Mar 2022
 i
 23 Apr 2022
 
 14 May 2022
+
+** Sessions for the 2021-22 academic year **
 
 | date  | facilitator   | topic   | handout  |   
 |---|---|---|---|
