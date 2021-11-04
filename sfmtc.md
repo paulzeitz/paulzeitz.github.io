@@ -16,11 +16,11 @@ Proof School, 973 Mission St., San Francisco, CA 94103.  Our sessions take place
 | date  | facilitator   | topic   | handout  |   
 |---|---|---|---|
 |30 Oct 2021   | Paul Zeitz   | balloon polyhedra, etc.    |   |   
-| 11 Dec 2021   | Anna Weltman   | TBA   |   |   
+| 11 Dec 2021   | Anna Weltman   | TBA   |.   |   
 |12 Feb 2022 | TBA   |   |   |   
-|12 Mar 2022| TBA|  |  |  |
-| 23 Apr 2022|TBA| |||
-|14 May 2022| TBA|||`
+|12 Mar 2022| TBA|  |  |  
+| 23 Apr 2022|TBA| ||
+|14 May 2022| TBA|||
 
 For more information, please contact Paul Zeitz, zeitzp (at) usfca . edu
 
