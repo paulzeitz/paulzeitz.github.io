@@ -21,7 +21,7 @@ i
 
 14 May 2022
 
-** Sessions for the 2021-22 academic year **
+**Sessions for the 2021-22 academic year**
 
 | date  | facilitator   | topic   | handout  |   
 |---|---|---|---|
