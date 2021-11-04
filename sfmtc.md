@@ -24,8 +24,7 @@ The San Francisco Math Teachers’ Circle will be meeting  at
 
 For more information, please contact Paul Zeitz, zeitzp (at) usfca . edu
 
-**Leadership Team**
-
+**Leadership Team**  
 Avery Pickford, Nueva School  
 Sage Moore, McSymonds High School  
 Paul Zeitz, University of San Francisco (emeritus)
