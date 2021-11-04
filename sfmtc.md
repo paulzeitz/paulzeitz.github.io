@@ -19,6 +19,11 @@ Proof School, 973 Mission St., San Francisco, CA 94103.  Our sessions take place
 23 Apr 2022
 
 14 May 2022
+| date  | facilitator   | topic   | handout  |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 
 For more information, please contact Paul Zeitz, zeitzp (at) usfca . edu
