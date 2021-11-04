@@ -26,5 +26,5 @@ For more information, please contact Paul Zeitz, zeitzp (at) usfca . edu
 
 **Leadership Team**  
 Avery Pickford, Nueva School  
-Sage Moore, McCymonds High School  
+Sage Moore, McClymonds High School  
 [Paul Zeitz](https://www.usfca.edu/faculty/paul-zeitz), University of San Francisco (emeritus)
