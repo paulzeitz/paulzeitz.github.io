@@ -8,7 +8,7 @@ The San Francisco Math Teachers’ Circle will be meeting  at
 Proof School, 973 Mission St., San Francisco, CA 94103.  Our sessions take place on Saturdays from 930--1230, approximately. The dates of our sessions are
 
 
-30 Oct 2021
+
 
 11 Dec 2021
 
@@ -19,11 +19,11 @@ Proof School, 973 Mission St., San Francisco, CA 94103.  Our sessions take place
 23 Apr 2022
 
 14 May 2022
-| date  | facilitator   | topic   | handout  |   |
+| date  | facilitator   | topic   | handout  |   
 |---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|30 Oct 2021   | Paul Zeitz   | balloon polyhedra, etc.    |   |   
+| 11 Dec 2021   | Anna Weltman   | TBA   |   |   
+|   |   |   |   |   
 
 
 For more information, please contact Paul Zeitz, zeitzp (at) usfca . edu
