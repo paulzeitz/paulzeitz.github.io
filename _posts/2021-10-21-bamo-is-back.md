@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Latest News
+title: BAMO is back!
 subtitle: BAMO returns Wed 23 February 2022!
 ---
 
