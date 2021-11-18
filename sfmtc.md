@@ -16,7 +16,7 @@ The San Francisco Math Teachers’ Circle will be meeting  at
 | date  | facilitator   | topic   | handout  |   
 |---|---|---|---|
 |30 Oct 2021   | [Paul Zeitz](https://www.usfca.edu/faculty/paul-zeitz)   | balloon polyhedra, etc.    | [pdf](/sfmtc-stuff/SFMTC211030.pdf) (with links to references, and a Geogebra workbook)|   
-| 11 Dec 2021   | Anna Weltman   | TBA   |  |   
+| 11 Dec 2021   | Anna Weltman and Graham Gordon, [Proof School](https://www.proofschool.org)  | Measuring Squareness   |  |   
 |12 Feb 2022 | TBA   |   |   |   
 |12 Mar 2022| TBA|  |  |  
 | 23 Apr 2022|TBA| ||
