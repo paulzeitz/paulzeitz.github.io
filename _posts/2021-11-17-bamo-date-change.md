@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Latest News
+title: Date change for exam
 subtitle: BAMO will take place on Wed 2 Mar, not Wed 23 February 2022!
 ---
 
