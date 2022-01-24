@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Latest News
+title: Registration is open
 subtitle: Registration for BAMO 2022 is now open!
 ---
 
