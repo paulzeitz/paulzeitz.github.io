@@ -5,7 +5,7 @@ subtitle: Open proctoring sites; registration closing soon
 ---
 
 We will be closing registration in about a week (Valentines Day), so please register soon by visiting   our [APPLY](https://paulzeitz.github.io/apply) page 
-for more information and a registration form.
+for more information and the registration form.
   
 If you have already registered, you don't need to do so again. Remember, *we are only registering schools and math circles, not individuals or home-schooled students.*
 
