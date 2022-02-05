@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lastest News
+title: Register soon!
 subtitle: BAMO is in 5 weeks. Register soon!
 ---
 
