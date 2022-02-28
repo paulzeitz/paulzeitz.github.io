@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lastest News
+title: Open Proctoring Sites
 subtitle: Open proctoring sites; registration closing soon
 ---
 
