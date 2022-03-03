@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Lastest News
-subtitle: BAMO is in two days!
+title: BAMO is in two days!
+subtitle: Open proctoring sites
 ---
 
 Registration has closed for new proctoring sites.  But if you are a *student* who wants to take BAMO, you still can! 
