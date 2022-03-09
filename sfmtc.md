@@ -31,9 +31,4 @@ Sage Moore, McClymonds High School
 
 X: <span id='x-value'></span>
 
-<script type ="text-javascript">
-window.addEventListener('mousemove', function (e) {
-    document.getElementById('x-value').textContent = e.x;
-    document.getElementById('y-value').textContent = e.y;
-});
-</script>
+<script src="/assets/js/mouse.js"></script>
