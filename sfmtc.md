@@ -29,7 +29,7 @@ Avery Pickford, Nueva School
 Sage Moore, McClymonds High School  
 [Paul Zeitz](https://www.usfca.edu/faculty/paul-zeitz), University of San Francisco (emeritus)
 
-X: <span id="x-value"></span>
+X: <span id='x-value'></span>
 
 <script type ="text-javascript">
 window.addEventListener('mousemove', function (e) {
