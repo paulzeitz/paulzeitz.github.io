@@ -28,3 +28,12 @@ For more information, please contact Paul Zeitz, zeitzp (at) usfca . edu
 Avery Pickford, Nueva School  
 Sage Moore, McClymonds High School  
 [Paul Zeitz](https://www.usfca.edu/faculty/paul-zeitz), University of San Francisco (emeritus)
+
+X: <span id="x-value"></span>
+
+<script type ="text-javascript">
+window.addEventListener('mousemove', function (e) {
+    document.getElementById('x-value').textContent = e.x;
+    document.getElementById('y-value').textContent = e.y;
+});
+</script>
