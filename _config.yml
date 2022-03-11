@@ -22,7 +22,9 @@ navbar-links:
     - Past Winners: "archives/winners"
   FAQs: "faq"
   Sponsors/Donate: "donate"
-  Other resources: "other"
+  Other resources: 
+    - SFMTC: "sfmtc"
+    - MoMath: "Momath"
 
 # --- Logo --- #
 
