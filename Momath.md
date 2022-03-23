@@ -11,6 +11,8 @@
   * that [explains](https://www.geogebra.org/classic/e8m9jsvk) the derivatives of sine and cosine with just geometry
 * To use **Processing**, go to the Processing [website](https://processing.org) to download their software
   * [Here](momathFiles/descent_220311.pde) is my brachistochrone processing file.
+  * A simulation of a simple gravity-obeying [shooter](momathFiles/turret_220322.pde).
+  * My simulation of [motionscape](momathFiles/motionscape_220314.pde)
 * I have made my "sandbox" in **CoCalc (Sage)** public. Here is the [link](https://cocalc.com/share/public_paths/7fdadcbc8c6b6ae9b5af82b34a1a56e4e55c1298). Get your own account by going to Cocalc.com, and then you can copy my file and modify it. When you go to the link, you get the latest version that I have made.
 
 
