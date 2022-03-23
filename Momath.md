@@ -6,6 +6,7 @@
 * My **Geogebra** file 
   * that demonstrated Mark Levi's proof of the cycloid equation is [here](https://www.geogebra.org/classic/ueaxvvdz).
   * that shows the forces on the [catenary](https://www.geogebra.org/classic/wjpuajgm)
+  * that [develops](https://www.geogebra.org/classic/setyhswh) the differential equation for the square-wheeled trike surface
   * that [explains](https://www.geogebra.org/classic/e8m9jsvk) the derivatives of sine and cosine with just geometry
 * To use **Processing**, go to the Processing [website](https://processing.org) to download their software
   * [Here](momathFiles/descent_220311.pde) is my brachistochrone processing file.
