@@ -9,7 +9,7 @@
   * that shows the forces on the [catenary](https://www.geogebra.org/classic/wjpuajgm)
   * that [develops](https://www.geogebra.org/classic/setyhswh) the differential equation for the square-wheeled trike surface
   * that [explains](https://www.geogebra.org/classic/e8m9jsvk) the derivatives of sine and cosine with just geometry
-* To use **Processing**, go to the Processing [website](https://processing.org) to download their software
+* To use **Processing**, go to the Processing [website](https://processing.org) to download their software. Then when you click on the links below, you can copy and paste my code into your own Processing sketches to run and modify my code.
   * [Here](momathFiles/descent_220311.pde) is my brachistochrone processing file.
   * A simulation of a simple gravity-obeying [shooter](momathFiles/turret_220322.pde).
   * My simulation of [motionscape](momathFiles/motionscape_220314.pde)
