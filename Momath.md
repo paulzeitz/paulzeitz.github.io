@@ -15,9 +15,10 @@
   * My simulation of [motionscape](momathFiles/motionscape_220314.pde)
 * I have made my "sandbox" in **CoCalc (Sage)** public. Here is the [link](https://cocalc.com/share/public_paths/7fdadcbc8c6b6ae9b5af82b34a1a56e4e55c1298). Get your own account by going to Cocalc.com, and then you can copy my file and modify it. When you go to the link, you get the latest version that I have made.
 
+<h3> Exhibit Tangents, March  30, 2022 (Blooms and tilings)</h3>
 
-
-
+* **Blooms**  There are a number of nice videos about phyllotaxis and the golden ratio. Vi Hart has a nice 3-part series. Search for "Doodling in Math: Spirals, Fibonacci, and Being a Plant" and don't forget to find all three parts.  Another nice website is (https://www.mathsisfun.com/numbers/nature-golden-ratio-fibonacci.html), which includes an applet that shows how different turn angles produce different plant growths. There are many videos about John Edmark's work, several   made by the Exploratorium museum in San Francisco.  For example, (https://www.exploratorium.edu/video/art-john-edmark).
+* **Penrose tiles** There is a huge literature out there, but the best start is Martin Gardner's essays which can be found in chapters 1 and 2 of his book, *Penrose Tiles to Trapdoor Ciphers*.  A good website is (http://www.scienceu.com/geometry/articles/tiling/penrose.html) (make sure to find all the pages, not just the introduction), and an excellent website for constructing your own random tilings is (https://misc.0o0o.org/penrose/).
 
 For more information, please contact Paul Zeitz, zeitzp (at) usfca . edu
 
