@@ -17,7 +17,10 @@
 
 <h3> Exhibit Tangents, March  30, 2022 (Blooms and tilings)</h3>
 
-* **Blooms**  There are a number of nice videos about phyllotaxis and the golden ratio. Vi Hart has a nice 3-part series. Search for "Doodling in Math: Spirals, Fibonacci, and Being a Plant" and don't forget to find all three parts.  [This](https://www.mathsisfun.com/numbers/nature-golden-ratio-fibonacci.html) website  includes an applet that shows how different turn angles produce different plant growths. There are many videos about John Edmark's work, several   made by the Exploratorium museum in San Francisco, for example, this [website](https://www.exploratorium.edu/video/art-john-edmark).
+* **Blooms**  
+ * There are a number of nice videos about phyllotaxis and the golden ratio. Vi Hart has a nice 3-part series. Search for "Doodling in Math: Spirals, Fibonacci, and Being a Plant" and don't forget to find all three parts.  [This](https://www.mathsisfun.com/numbers/nature-golden-ratio-fibonacci.html) website  includes an applet that shows how different turn angles produce different plant growths. 
+ * There are many videos about John Edmark's work, several   made by the Exploratorium museum in San Francisco, for example, this [website](https://www.exploratorium.edu/video/art-john-edmark).  The *Vimeo* video that I shared is [here](https://vimeo.com/117674269).
+ * Here are several **Processing** files.
 * **Penrose tiles** There is a huge literature out there, but the best start is Martin Gardner's essays which can be found in chapters 1 and 2 of his book, *Penrose Tiles to Trapdoor Ciphers*.  [This](http://www.scienceu.com/geometry/articles/tiling/penrose.html) is an excellent site (make sure to find all the pages, not just the introduction), and  try this [website](https://misc.0o0o.org/penrose/) for constructing your own random tilings.
 
 For more information, please contact Paul Zeitz, zeitzp (at) usfca . edu
