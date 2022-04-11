@@ -1,6 +1,7 @@
 <h2> MoMath program resources</h2>
 
-<h3> Desert Island Math, April 11, 2022 ([Squares and Cubes](momathFiles/momath220411.md))</h3>
+<h3> Desert Island Math, April 11, 2022 (Squares and Cubes)</h3>
+[resources](momathFiles/momath220411.md)
 
 <h3> Exhibit Tangents, March  16 and 23, 2022 ("Calculus Corner," parts I and II)</h3>
 
