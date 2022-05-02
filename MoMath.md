@@ -1,5 +1,9 @@
 <h2> MoMath program resources</h2>
 
+<h3> Desert Island Math, May 2, 2022 (Polyhedra)</h3>
+
+[resources](momathFiles/momath220502.md)
+
 <h3> Desert Island Math, April 25, 2022 (Geometric Constructions)</h3>
 
 [resources](momathFiles/momath220425.md)
