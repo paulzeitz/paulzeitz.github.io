@@ -4,7 +4,7 @@
 </td></tr>
 <tr> <td colspan="3" height="20px"> </td> </tr>
  <tr valign="bottom">
-<td><img src="/archives/speakerImages/alonAmitSmall.jpg" border="0"></td>
+<td><img src="/archives/speakerImages/alonAmitSmall.jpeg" border="0"></td>
 </tr>
  <tr valign="bottom">
  <td><img src="/archives/speakerImages/MiraBernstein.jpg" border="0"> </td>
