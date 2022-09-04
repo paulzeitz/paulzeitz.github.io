@@ -4,6 +4,11 @@
 </td></tr>
 <tr> <td colspan="3" height="20px"> </td> </tr>
  <tr valign="bottom">
+<td><img src="/archives/speakerImages/JacobFox_BAMO2016.jpg" border="0"></td>
+<td><img src="/archives/speakerImages/GabrielCarroll_BAMO2015.jpg" border="0"> </td>
+<td><img src="/archives/speakerImages/Sam_Vandervelde_Small.jpg" border="0"> </td>
+</tr>
+ <tr valign="bottom">
  <td><img src="/archives/speakerImages/MiraBernstein.jpg" border="0"> </td>
 <td><img src="/archives/speakerImages/TadashiTokieda_BAMO2018.jpg" border="0"> </td>
 <td><img src="/archives/speakerImages/MatthiasBeck_BAMO2017.jpg" border="0"> </td>
