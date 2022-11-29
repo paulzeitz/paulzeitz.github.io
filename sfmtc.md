@@ -5,7 +5,7 @@ Welcome to the San Francisco Math Teachers’ Circle! Founded in 2016, we are a 
 
 
 The San Francisco Math Teachers’ Circle will be meeting  at 
-[Proof School](https://www.proofschool.org), 973 Mission St., San Francisco, CA 94103.  Our sessions take place on Saturdays from 930--1230, approximately. 
+[Proof School](https://www.proofschool.org), 973 Mission St., San Francisco, CA 94103.  Our sessions take place on Saturdays from 1030AM--1PM, approximately. 
 
 **Sessions for the 2022-23 academic year**
 
