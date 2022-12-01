@@ -13,7 +13,7 @@ The San Francisco Math Teachers’ Circle will be meeting  at
 |---|---|---|---|
 | 14 Jan 2023|[Henri Piccioto](https://www.mathed.page)|Geometric puzzles ||
 |11 Feb 2023| TBA|||
-| 11 Mar 2023|TBA| ||
+| 11 Mar 2023|[Susan Durst](https://susandurst.weebly.com), Proof School| TBA||
 |1 Apr 2023| TBA|||
 |6 May 2023| TBA|||
 
