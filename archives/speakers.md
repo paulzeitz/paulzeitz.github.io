@@ -127,7 +127,7 @@ Harvey Mudd College<br>
 <em>"Fibonacci Numbers," 2006.</em><br>
 Held at MSRI</td>
 <td>
-<b>Melanie Woods</b><br/>
+<b>Melanie Wood</b><br/>
 Princeton University<br>
 <em>"Ramsey Theory: Amongst enough chaos, can we find order?" 2005.</em><br>
 Held at USF
