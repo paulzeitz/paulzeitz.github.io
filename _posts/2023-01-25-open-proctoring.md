@@ -19,6 +19,7 @@ This list includes schools in the following locations:
 - Santa Cruz
 - Santa Barbara
 - San Diego.
+- 
 Please contact them on your own, and be aware that there is still very limited availability, and that it is a first-come, first-served situation. 
 The information is still incomplete, but please return to this website for updates.  *Please contact one school at a time; don't bombard them all with requests.  Wait to hear from a school for confirmation and details.*
 
