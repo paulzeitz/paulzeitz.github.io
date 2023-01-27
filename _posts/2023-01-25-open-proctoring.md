@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Open Proctoring Sites
-subtitle: Open proctoring sites; BAMO is in 5 weeks
+title: Latest News
+subtitle: Open proctoring sites
 ---
 
 If you have already registered, you don't need to do so again. 
