@@ -16,8 +16,10 @@ This list includes schools in the following locations:
 - South Bay 
 - North Bay
 - Peninsula
+- San Francisco
 - Santa Cruz
 - Santa Barbara
+- Pasadena
 - San Diego.
 
 Please contact them on your own, and be aware that there is still very limited availability, and that it is a first-come, first-served situation. 
