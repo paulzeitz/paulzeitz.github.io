@@ -14,7 +14,7 @@ If you want to be on our email list, click this [link!](https://forms.gle/WGY7w2
 | date  | facilitator   | topic   | handout  |   
 |---|---|---|---|
 | 14 Jan 2023|[Henri Piccioto](https://www.mathed.page)|Geometric puzzles |[Slides](https://www.mathed.page/talks.html) can be found, and much more, at this site.|
-|11 Feb 2023| [Breedeen Pickford-Murray](https://www.bayschoolsf.org/about-the-bay-school/meet-the-bay-staffulty), Bay School|Apportionment – State Representation By the Numbers|Here are [slides](https://docs.google.com/presentation/d/14a4skZFLkpMZbV3x1LWvg9OoKAOTyuDPJVQeEyNxcRA/edit#slide=id.p), [worksheet](https://docs.google.com/document/d/1NbWT6QM0tF2zN9ZJ5Cg5ocSMq1CJT5XvywZTf0N-QV0/edit)|
+|11 Feb 2023| [Breedeen Pickford-Murray](https://www.bayschoolsf.org/about-the-bay-school/meet-the-bay-staffulty), Bay School|Apportionment – State Representation By the Numbers|Here are [slides](https://docs.google.com/presentation/d/14a4skZFLkpMZbV3x1LWvg9OoKAOTyuDPJVQeEyNxcRA/edit#slide=id.p), [worksheet](https://docs.google.com/document/d/1NbWT6QM0tF2zN9ZJ5Cg5ocSMq1CJT5XvywZTf0N-QV0/edit), and useful state population [data](https://docs.google.com/spreadsheets/d/1Rp0YbvlCLAmFYuWIHIiX4kLbV71MYjUYIAvc71PF1Lk/edit#gid=0).|
 | 11 Mar 2023|[Susan Durst](https://susandurst.weebly.com), Proof School| TBA||
 |1 Apr 2023| TBA|||
 |6 May 2023| TBA|||
