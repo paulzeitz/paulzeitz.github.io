@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Latest News
-subtitle: Open proctoring sites
+title: Open proctoring sites
+subtitle: If your school won't proctor BAMO, then read this
 ---
 
 If you have already registered, you don't need to do so again. 
