@@ -10,10 +10,9 @@
  <td><a href="https://www.linkedin.com/in/alonamit/">Alon Amit</a><br>
   Intuit<br>
  <em> "The changing nature of proof," 2022.</em><br>Held at Santa Clara University</td> 
- <td><a href="https://www.linkedin.com/in/mira-bernstein-1550a1137/">Mira Bernstein</a><br>
-Chair, Board of Directors<br>
-Candada/USA Math Camp<br>
-<em> "A Game You Can't Play (But Would Win If You Could)," 2019.</em><br>Held at MSRI</td>
+ <td><a href="http://pi.math.cornell.edu/~zakh/">Inna Zakharevich</a><br>
+Associate Professor, Cornell University<br>
+<em> "Solving polynomials with origami (or: things you can do if you lose your compass)" 2023.</em><br>Held at Santa Clara University</td>
  <tr valign="bottom">
  <td><img src="/archives/speakerImages/MiraBernstein.jpg" border="0"> </td>
 <td><img src="/archives/speakerImages/TadashiTokieda_BAMO2018.jpg" border="0"> </td>
