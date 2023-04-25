@@ -2,7 +2,7 @@
 
 <h3> June 25-30, 2023 | Jackson Hole, Wyoming</h3>
 
-<img src="MitM/tetons.pdf" alt="Girl in a jacket" width="500" height="600">
+<img src="/MitM/tetons.pdf" width="700" height="300">
 
 *Math in the Mountains* (MitM) is a new week-long math camp conceived by Paul Zeitz and Andrew Chung that will feature a unique mix of teachers, kids, and parents with a deep passion for mathematics, based at the Teton Science Schools (TSS) in Jackson Hole.  We plan to host a small number of teachers from Wyoming and Montana along with a small family camp featuring  young "math kids" and their parents.
 
