@@ -8,5 +8,5 @@
 
 The program will be led by a group of leading math educators who include the founder and faculty members from the Proof School; former coach of the USA Math Olympiad team (and USAMO winner); instructors who have taught at Epsilon Camp, Campersand, and MathCamp; applied mathematicians with investing and entrepreneurial backgrounds; and the main force behind the Global Math Project.  The number of campers is deliberately very small, ensuring an unusually high instructor-to-camper ratio and significant attention to each child and parent’s needs.  Instruction will take place from the classrooms at TSS to outdoor locations in nearby Grand Teton National Park to create a unique environment for mathematical discourse.
 
-[Here](MitM/announcementA.pdf) is the first announcement of Math in the Mountains, with more information and FAQs.
+[Here](MitM/MitM-announcement230424pdf) is the first announcement of Math in the Mountains, with more information and FAQs. For more information and to begin the registration process, please email [Paul Zeitz](mailto:zeitzp@usfca.edu). 
 
