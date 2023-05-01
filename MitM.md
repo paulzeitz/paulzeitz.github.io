@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Math in the Mountains</title>
      <meta charset="UTF-8" />
      <meta http-equiv="refresh" content="3; URL=https://www.mathmountains.org" />
    </head>
