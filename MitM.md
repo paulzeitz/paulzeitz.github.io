@@ -6,7 +6,7 @@ Thanks for visiting this page! We will slowly place files of our handouts of our
 
 | facilitator  | topic   | handout without spoilers   | spoilers!  |   
 |---|---|---|---|
-| Paul Zeitz|Sequences| [Investigations 101 handout](MitM/sequences.pdf)||
+| Paul Zeitz|Sequences| [Investigations 101 handout](MitM/sequences.pdf)|(MitM/sequencesSol.pdf)|
 
 
 
