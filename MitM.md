@@ -7,7 +7,7 @@ Thanks for visiting this page! We will slowly place files of our handouts of our
 | facilitator  | topic   | handout without spoilers   | spoilers!  |   
 |---|---|---|---|
 | Paul Zeitz|Sequences| [Investigations 101 handout](MitM/sequences.pdf)|[handout with solutions](MitM/sequencesSol.pdf)|
-
-
+| Paul Zeitz|Magic| [math magic for muggles](MitM/mathmagic.pdf)|[handout with solutions](MitM/mathmagicSol.pdf)|
+| Paul Zeitz|Dissections| [Scissors congruence](MitM/dissections.pdf)|[handout with solutions](MitM/scissorsSol.pdf)|
 
 
