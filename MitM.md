@@ -9,5 +9,5 @@ Thanks for visiting this page! We will slowly place files of our handouts of our
 | Paul Zeitz|Sequences| [Investigations 101 handout](MitM/sequences.pdf)|[handout with solutions](MitM/sequencesSol.pdf)|
 | Paul Zeitz|Magic| [math magic for muggles](MitM/mathmagic.pdf)|[handout with solutions](MitM/mathmagicSol.pdf)|
 | Paul Zeitz|Dissections| [Scissors congruence](MitM/dissections.pdf)|[a solutions file from an old SF session](MitM/scissorsSolA.pdf)|
-
-
+| James Tanton|Exploding Dots| see [this]( https://globalmathproject.org/) and [this](https://gdaymath.com/courses/)||
+| James Tanton|Intersection math| see [this](https://navajomath.math.ksu.edu/wp-content/uploads/2021/05/intersection-math_combined-sm.pdf)||
