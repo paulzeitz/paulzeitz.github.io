@@ -15,9 +15,9 @@ If you want to be on our email list, click this [link!](https://forms.gle/WGY7w2
 | 28 Oct 2023|[Beth Malmskog](https://www.coloradocollege.edu/basics/contact/directory/people/malmskog_beth.html), Colorado College|Squaring the Quilting Circle |See [handout](/sfmtc-stuff/malmskog-quilt.pdf).|
 |9 Dec 2023| [Avery Pickford](https://www.linkedin.com/in/avery-pickford-6992a2246/), Lick-Wilmerding|Short Math Games For Large Groups||
 | 20 Jan 2024|[Pedro Morales-Almazan](https://susandurst.weebly.com), UC Santa Cruz| Mathprov!|Here is an example from Pedro's [blog](http://towardsthelimitedge.pedromoralesalmazan.com/2018/05/there-is-math-even-in-improv.html)|
-|24 Feb 2024| [TBA](https://www.usfca.edu/faculty/paul-zeitz)|Mathematical Paper Folding|[Here](/sfmtc-stuff/SFMTC230401-folding.pdf) is the handout, and [here](/sfmtc-stuff/paper-foldingMoMath200113.pdf) are slides from a talk I gave at [MoMath](https://momath.org) in January 2020, and [here](/sfmtc-stuff/cubic.pdf) is a paper about how to use origami to solve polynomial equations.  The author of this paper also wrote the highly recommended *Origametry*.|
-|23 Mar 2023| [Marc Roth](https://www.beammath.org/staff)|TBA||
-|4 May 2023| [Shamil Asgarli](https://www.beammath.org/staff)|TBA||
+|24 Feb 2024|TBA|||
+|23 Mar 2023| [[Marc Roth](https://www.linkedin.com/in/marc-roth-a9862b7/)|Bowling Pin Puzzles||
+|4 May 2023| [[Shamil Asgarli](https://www.scu.edu/cas/mathcs/faculty-and-staff/shamil-asgarli/), Santa Clara University|TBA||
 
 **Sessions for the 2022-23 academic year**
 
