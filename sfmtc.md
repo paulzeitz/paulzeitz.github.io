@@ -8,6 +8,16 @@ The San Francisco Math Teachers’ Circle will be meeting  at
 [Proof School](https://www.proofschool.org), 973 Mission St., San Francisco, CA 94103.  Our sessions take place on Saturdays from 1030AM--1PM, approximately. 
 
 If you want to be on our email list, click this [link!](https://forms.gle/WGY7w2zM1MkxGVyaA)
+**Sessions for the 2023-24 academic year**
+
+| date  | facilitator   | topic   | handout  |   
+|---|---|---|---|
+| 28 Oct 2023|[Beth Malmskog](https://www.mathed.page)|Geometric puzzles |[Slides](https://www.mathed.page/talks.html) can be found, and much more, at this site.|
+|9 Dec 2023| [Avery Pickford](https://www.bayschoolsf.org/about-the-bay-school/meet-the-bay-staffulty), Bay School|Apportionment – State Representation By the Numbers|Here are [slides](https://docs.google.com/presentation/d/14a4skZFLkpMZbV3x1LWvg9OoKAOTyuDPJVQeEyNxcRA/edit#slide=id.p), [worksheet](https://docs.google.com/document/d/1NbWT6QM0tF2zN9ZJ5Cg5ocSMq1CJT5XvywZTf0N-QV0/edit), and useful state population [data](https://docs.google.com/spreadsheets/d/1Rp0YbvlCLAmFYuWIHIiX4kLbV71MYjUYIAvc71PF1Lk/edit#gid=0).|
+| 20 Jan 2024|[Pedro Morales-Almazan](https://susandurst.weebly.com), Proof School| Error Correcting Codes||
+|24 Feb 2024| [TBA](https://www.usfca.edu/faculty/paul-zeitz)|Mathematical Paper Folding|[Here](/sfmtc-stuff/SFMTC230401-folding.pdf) is the handout, and [here](/sfmtc-stuff/paper-foldingMoMath200113.pdf) are slides from a talk I gave at [MoMath](https://momath.org) in January 2020, and [here](/sfmtc-stuff/cubic.pdf) is a paper about how to use origami to solve polynomial equations.  The author of this paper also wrote the highly recommended *Origametry*.|
+|23 Mar 2023| [Marc Roth](https://www.beammath.org/staff)|TBA||
+|4 May 2023| [Shamil Asgarli](https://www.beammath.org/staff)|TBA||
 
 **Sessions for the 2022-23 academic year**
 
@@ -34,7 +44,7 @@ For more information, please contact Paul Zeitz, zeitzp (at) usfca . edu
 
 **Leadership Team**  
 Avery Pickford, Nueva School  
-Sage Moore, McClymonds High School  
+Sophie Ehlen, ICA Cristo Rey  
 [Paul Zeitz](https://www.usfca.edu/faculty/paul-zeitz), University of San Francisco (emeritus)
 
 X: <span id='x-value'></span>
