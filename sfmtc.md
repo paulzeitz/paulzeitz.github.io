@@ -12,7 +12,7 @@ If you want to be on our email list, click this [link!](https://forms.gle/WGY7w2
 
 | date  | facilitator   | topic   | handout  |   
 |---|---|---|---|
-| 28 Oct 2023|[Beth Malmskog](https://www.mathed.page)|Geometric puzzles |[Slides](https://www.mathed.page/talks.html) can be found, and much more, at this site.|
+| 28 Oct 2023|[Beth Malmskog](https://www.mathed.page)|Squaring the Quilting Circle |[Slides](https://www.mathed.page/talks.html) can be found, and much more, at this site.|
 |9 Dec 2023| [Avery Pickford](https://www.bayschoolsf.org/about-the-bay-school/meet-the-bay-staffulty), Bay School|Apportionment – State Representation By the Numbers|Here are [slides](https://docs.google.com/presentation/d/14a4skZFLkpMZbV3x1LWvg9OoKAOTyuDPJVQeEyNxcRA/edit#slide=id.p), [worksheet](https://docs.google.com/document/d/1NbWT6QM0tF2zN9ZJ5Cg5ocSMq1CJT5XvywZTf0N-QV0/edit), and useful state population [data](https://docs.google.com/spreadsheets/d/1Rp0YbvlCLAmFYuWIHIiX4kLbV71MYjUYIAvc71PF1Lk/edit#gid=0).|
 | 20 Jan 2024|[Pedro Morales-Almazan](https://susandurst.weebly.com), Proof School| Error Correcting Codes||
 |24 Feb 2024| [TBA](https://www.usfca.edu/faculty/paul-zeitz)|Mathematical Paper Folding|[Here](/sfmtc-stuff/SFMTC230401-folding.pdf) is the handout, and [here](/sfmtc-stuff/paper-foldingMoMath200113.pdf) are slides from a talk I gave at [MoMath](https://momath.org) in January 2020, and [here](/sfmtc-stuff/cubic.pdf) is a paper about how to use origami to solve polynomial equations.  The author of this paper also wrote the highly recommended *Origametry*.|
