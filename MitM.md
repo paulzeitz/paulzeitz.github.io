@@ -3,6 +3,8 @@
 We are pleased to announce the second year of the Math in the Mountains Teacher Immersion Program, taking place at the Teton Science Schools Jackson, WY campus, from June 30 -- July 5, 2024.
 For more information, read the full [announcement](MitM/MitM-TIP-240215.pdf).
 
+---
+
 <h3> Math in the Mountains 2023 Teacher Immersion Program</h3>
 
 Thanks for visiting this page! We will slowly place files of our handouts of our June 26-30 program.  Stay in touch!
