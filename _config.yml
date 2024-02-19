@@ -16,6 +16,7 @@ author: Bay Area Mathematical Olympiad
 navbar-links:
   About: "information"
   Apply: "apply"
+  Proctoring instructions: "proctor"
   Archives:
     - Problems and Solutions: "archives/problems_and_solutions"
     - Past Speakers: "archives/speakers"
