@@ -11,7 +11,7 @@ The exam will take place on Wednesday March 6, 2024 during a 4-hour window betwe
 * At this time, we are restricting participation to CA, OR, and WA. For schools outside this area, feel free to register, but we cannot guarantee that we will grade your exams. We need to see how many participants we have, and how many graders we can recruit.
 * Here are full [instructions](archives/proctoring-instructions2024.pdf).
 
-Here is the registration [form](https://forms.gle/wAzepSUbhNtm4Tfs6).
+Here is the registration [form](https://forms.gle/wAzepSUbhNtm4Tfs6) to register your school (it is no longer active since all schools are registered for BAMO 2024).
 
  If you wish to added to our email list, please click on this [link](https://forms.gle/DAg6jVvo983qEZ45A).
 
