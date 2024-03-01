@@ -15,7 +15,7 @@ If you want to be on our email list, click this [link!](https://forms.gle/WGY7w2
 | 28 Oct 2023|[Beth Malmskog](https://www.coloradocollege.edu/basics/contact/directory/people/malmskog_beth.html), Colorado College|Squaring the Quilting Circle |See [handout](/sfmtc-stuff/malmskog-quilt.pdf).|
 |9 Dec 2023| [Avery Pickford](https://www.linkedin.com/in/avery-pickford-6992a2246/), Lick-Wilmerding|Short Math Games For Large Groups||
 | 20 Jan 2024|[Pedro Morales-Almazan](https://susandurst.weebly.com), UC Santa Cruz| Mathprov!|Here is an example from Pedro's [blog](http://towardsthelimitedge.pedromoralesalmazan.com/2018/05/there-is-math-even-in-improv.html)|
-|24 Feb 2024|[Paul Zeitz](https://www.usfca.edu/faculty/paul-zeitz)|Visual, Wordless Proofs|Here is the [handout](/sfmtc-stuff/SFMTC240224-visual.pdf). Here is a lovely image that shows the area of a [dodecagon]/sfmtc-stuff/dodecagon.pdf).  HT Madhavi Gudivaka!|
+|24 Feb 2024|[Paul Zeitz](https://www.usfca.edu/faculty/paul-zeitz)|Visual, Wordless Proofs|Here is the [handout](/sfmtc-stuff/SFMTC240224-visual.pdf). Here is a lovely image that shows the area of a [dodecagon](/sfmtc-stuff/dodecagon.pdf).  HT Madhavi Gudivaka!|
 |23 Mar 2023| TBA|TBA||
 |4 May 2023| [Shamil Asgarli](https://www.scu.edu/cas/mathcs/faculty-and-staff/shamil-asgarli/), Santa Clara University|TBA||
 
