@@ -14,6 +14,9 @@
  <td><a href="http://pi.math.cornell.edu/~zakh/">Inna Zakharevich</a><br>
 Associate Professor, Cornell University<br>
 <em> "Solving polynomials with origami (or: things you can do if you lose your compass)," 2023.</em><br>Held at Santa Clara University</td>
+ <td><a href="http://pi.math.cornell.edu/~zakh/">Inna Zakharevich</a><br>
+Associate Professor, Cornell University<br>
+<em> "Solving polynomials with origami (or: things you can do if you lose your compass)," 2023.</em><br>Held at Santa Clara University</td>
  <tr valign="bottom">
  <td><img src="/archives/speakerImages/MiraBernstein.jpg" border="0"> </td>
 <td><img src="/archives/speakerImages/TadashiTokieda_BAMO2018.jpg" border="0"> </td>
