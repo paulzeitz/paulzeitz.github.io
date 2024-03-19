@@ -18,14 +18,6 @@ Associate Professor, Cornell University<br>
 <td><img src="/archives/speakerImages/TadashiTokieda_BAMO2018.jpg" border="0"> </td>
 <td><img src="/archives/speakerImages/MatthiasBeck_BAMO2017.jpg" border="0"> </td>
 </tr>
- <td><a href="http://pi.math.cornell.edu/~zakh/">Inna Zakharevich</a><br>
-Associate Professor, Cornell University<br>
-<em> "Solving polynomials with origami (or: things you can do if you lose your compass)," 2023.</em><br>Held at Santa Clara University</td>
- <tr valign="bottom">
- <td><img src="/archives/speakerImages/MiraBernstein.jpg" border="0"> </td>
-<td><img src="/archives/speakerImages/TadashiTokieda_BAMO2018.jpg" border="0"> </td>
-<td><img src="/archives/speakerImages/MatthiasBeck_BAMO2017.jpg" border="0"> </td>
-</tr>
 <tr valign="top">
 <td><a href="https://www.linkedin.com/in/mira-bernstein-1550a1137/">Mira Bernstein</a><br>
 Chair, Board of Directors<br>
