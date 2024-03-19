@@ -14,7 +14,7 @@
  <td><a href="http://pi.math.cornell.edu/~zakh/">Inna Zakharevich</a><br>
 Associate Professor, Cornell University<br>
 <em> "Solving polynomials with origami (or: things you can do if you lose your compass)," 2023.</em><br>Held at Santa Clara University</td>
- <td><a href="http://pi.math.cornell.edu/~zakh/">Alex Kontorovich</a><br>
+ <td><a href="https://sites.math.rutgers.edu/~alexk/">Alex Kontorovich</a><br>
 Professor, Rutgers University<br>
 <em> "The Apollonius problem," 2024.</em><br>Held at Santa Clara University</td>
  <tr valign="bottom">
