@@ -1,4 +1,4 @@
-<table width="650" border="0">
+<table width="650" border="0"> 
 <tr><td colspan="3">
 <h1>BAMO awards ceremony speakers</h1>
 </td></tr>
