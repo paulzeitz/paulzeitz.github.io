@@ -8,6 +8,13 @@ The San Francisco Math Teachers’ Circle will be meeting  at
 [Proof School](https://www.proofschool.org), 973 Mission St., San Francisco, CA 94103.  Our sessions take place on Saturdays from 1030AM--1PM, approximately.  
 
 If you want to be on our email list, click this [link!](https://forms.gle/WGY7w2zM1MkxGVyaA)
+
+**Sessions for the 2024-25 academic year**
+
+| date  | facilitator   | topic   | handout  |   
+|---|---|---|---|
+| 1 Mar 2025|[Ted Alper](https://mathcircle.spcs.stanford.edu/people/ted-alper), Stanford Math Circle|Winner's Curse and/or Richman Games|See [handout](/sfmtc-stuff/alper250301.pdf).|
+
 **Sessions for the 2023-24 academic year**
 
 | date  | facilitator   | topic   | handout  |   
@@ -16,8 +23,8 @@ If you want to be on our email list, click this [link!](https://forms.gle/WGY7w2
 |9 Dec 2023| [Avery Pickford](https://www.linkedin.com/in/avery-pickford-6992a2246/), Lick-Wilmerding|Short Math Games For Large Groups||
 | 20 Jan 2024|[Pedro Morales-Almazan](https://susandurst.weebly.com), UC Santa Cruz| Mathprov!|Here is an example from Pedro's [blog](http://towardsthelimitedge.pedromoralesalmazan.com/2018/05/there-is-math-even-in-improv.html)|
 |24 Feb 2024|[Paul Zeitz](https://www.usfca.edu/faculty/paul-zeitz)|Visual, Wordless Proofs|Here is the [handout](/sfmtc-stuff/SFMTC240224-visual.pdf). Here is a lovely image that shows the area of a [dodecagon](/sfmtc-stuff/dodecagon.pdf).  HT Madhavi Gudivaka!|
-|23 Mar 2023| TBA|TBA||
-|4 May 2023| [Shamil Asgarli](https://www.scu.edu/cas/mathcs/faculty-and-staff/shamil-asgarli/), Santa Clara University|TBA||
+|23 Mar 2024| TBA|TBA||
+|4 May 2024| [Shamil Asgarli](https://www.scu.edu/cas/mathcs/faculty-and-staff/shamil-asgarli/), Santa Clara University|Prufer codes||
 
 **Sessions for the 2022-23 academic year**
 
