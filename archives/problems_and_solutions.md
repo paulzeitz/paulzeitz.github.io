@@ -1,6 +1,6 @@
 <h1>Problems and Solutions from earlier BAMOs</h1>
 
-* [2025](examfiles/bamo2024-examsol240308.pdf)
+* [2025](examfiles/bamo2025-probsol.pdf)
 * [2024](examfiles/bamo2024-examsol240308.pdf)
 * [2023](examfiles/bamo2023-examsol-230323.pdf)
 * [2022](examfiles/bamo2022examsol.pdf)
