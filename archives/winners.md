@@ -1,5 +1,6 @@
 <h1>Individual and team winners of past BAMOs</h1>
 
+* [2025](BAMO2025-award-report250411.pdf)
 * [2024](BAMO2024-award-report240321.pdf)
 * [2023](BAMO2023-award-report.pdf)
 * [2022](winners/BAMO2022-award-report.pdf)
