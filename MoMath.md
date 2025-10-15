@@ -7,6 +7,7 @@
 * You can find a nice geometric proof of Wallis's product by watching this 3Blue1Brown [video](https://www.youtube.com/watch?v=8GPy_UMV-08). The video claims that the ideas are completely original, but that is not quite true. The core ideas were deployed in a 1953 paper by A. M. Yaglom, I. M. Yaglom, *An elementary derivation of
 the formulas of Wallis, Leibnitz and Euler for the number π,*
 Uspekhi Mat. Nauk, 1953, Volume 8, Issue 5, 181–187. This paper is in Russian.
+* If you want to know more about my cool brother-in-law Scott (he won an Emmy!) visit his [website](https://www.scottemmonscreative.com).
 
 
 <h3> Desert Island Math, May 2, 2022 (Polyhedra)</h3>
