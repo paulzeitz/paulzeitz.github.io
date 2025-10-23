@@ -2,7 +2,7 @@
 
 <h3> Random Walks, October 22, 2025 </h3>
 
-* An excellent book about the backbone of Pascal's Triangle is *The Backbone of Pascal's Triangle,* by Martin Griffiths.
+* An excellent book about the backbone of Pascal's Triangle is *The Backbone of Pascal's Triangle,* by Martin Griffiths. Also excellent is *Random Walks* by Dynkin and Uspenskii, a 1963 book translated from Russian which develops the subject through a series of problems (with detailed solutions!)
 * I have made my random walk code (Sagemath, which is Python with extra math commands) public, using the  **CoCalc (Sage)** server. Here is the [link](https://cocalc.com/share/public_paths/8ddcc0ea834bd6d796834cc04f619e6b928411fa). Get your own account by going to Cocalc.com, and then you can copy my file and modify it. When you go to the link, you get the latest version that I have made.
 * You can find a nice geometric proof of Wallis's product by watching this 3Blue1Brown [video](https://www.youtube.com/watch?v=8GPy_UMV-08). The video claims that the ideas are completely original, but that is not quite true. The core ideas were deployed in a 1953 paper by A. M. Yaglom, I. M. Yaglom, *An elementary derivation of
 the formulas of Wallis, Leibnitz and Euler for the number π,*
