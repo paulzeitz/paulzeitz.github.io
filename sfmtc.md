@@ -13,7 +13,7 @@ If you want to be on our email list, click this [link!](https://forms.gle/WGY7w2
 
 | date  | facilitator   | topic   | handout  |   
 |---|---|---|---|
-|13 Dec 2025|Paul Zeitz|Premature Pi Day||
+|13 Dec 2025|Paul Zeitz|Premature Pi Day|Handout is [Premature Pi Day](/sfmtc-stuff/SFMTC251213-piday.pdf).|
 
 **Sessions for the 2024-25 academic year**
 
