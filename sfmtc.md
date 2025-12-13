@@ -13,7 +13,7 @@ If you want to be on our email list, click this [link!](https://forms.gle/WGY7w2
 
 | date  | facilitator   | topic   | handout  |   
 |---|---|---|---|
-|13 Dec 2025|Paul Zeitz|Premature Pi Day|Handout is [Premature Pi Day](/sfmtc-stuff/SFMTC251213-piday.pdf). Here are the iPad [notes](/sfmtc-stuff/SFMTC\ 251213\ PZeitz\ notes\ Premature Pi.pdf)|
+|13 Dec 2025|Paul Zeitz|Premature Pi Day|Handout is [Premature Pi Day](/sfmtc-stuff/SFMTC251213-piday.pdf). Here are the iPad [notes](/sfmtc-stuff/SFMTC251213-iPad.pdf). Here is the Python [code](/sfmtc-stuff/SFMTC251213-sagemath.ipynb) that I used (with the Sagemath 10.7 kernel). And last, but not least, you can view Cornelia Van Cott's masterful talk on Pi [here](https://www.linkedin.com/posts/cornelia-van-cott-58429a69_math-encounters-irrational-investigation-activity-6628331507465490432-QKCF/?trk=public_profile_like_view).|
 
 **Sessions for the 2024-25 academic year**
 
