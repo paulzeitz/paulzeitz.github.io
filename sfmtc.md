@@ -9,6 +9,12 @@ The San Francisco Math Teachers’ Circle will be meeting  at
 
 If you want to be on our email list, click this [link!](https://forms.gle/WGY7w2zM1MkxGVyaA)
 
+**Sessions for the 2025-26 academic year**
+
+| date  | facilitator   | topic   | handout  |   
+|---|---|---|---|
+|13 Dec 2025|Paul Zeitz|Premature Pi Day||
+
 **Sessions for the 2024-25 academic year**
 
 | date  | facilitator   | topic   | handout  |   
