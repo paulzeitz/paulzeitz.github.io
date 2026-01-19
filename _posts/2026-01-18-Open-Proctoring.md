@@ -25,4 +25,4 @@ The information is still incomplete, but please return to this website for updat
 
 If you live outside the locations mentioned above, please contact us by email and we will see what we can do.  
 
-We wish that it is easier to take BAMO, but the pandemic has continued to make it  difficult for most schools to open their doors to non-students.
+We wish that it is easier to take BAMO, but the lingering effects of the pandemic has continued to make it  difficult for most schools to open their doors to non-students.
