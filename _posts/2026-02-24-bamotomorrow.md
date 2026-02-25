@@ -12,9 +12,8 @@ many other things, of the Global Math Project.
 Here is the title and description. James Tanton was trained as a topologist, and specializes in mathematics that one can see and touch.
 
 **How to Fold Things into Thirds and Other Awkward Fractions: A Lead-In to Artin’s Conjecture.** 
-
-I am continually struck by how seemingly simple, school‑level questions can unravel into deep and still‑unresolved mathematics. One such question arises from an unexpectedly familiar activity: folding.
+*I am continually struck by how seemingly simple, school‑level questions can unravel into deep and still‑unresolved mathematics. One such question arises from an unexpectedly familiar activity: folding.
 Is it possible to fold a tie into exactly three equal parts? Into fifths? Into other “awkward” fractions?
-Let's play with folding and see how deep theory can emerge naturally from the simplest curiosities.
+Let's play with folding and see how deep theory can emerge naturally from the simplest curiosities.*
 
 We will post more information about the awards ceremony after BAMO day.
