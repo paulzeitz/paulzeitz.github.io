@@ -7,7 +7,7 @@
    <td><img src="/archives/speakerImages/alexKontorovichSmall.jpeg" border="0"> </td>
 </tr>
  
- <td><a href="https://sites.math.rutgers.edu/~alexk/">Steve Trettel</a><br>
+ <td><a href="https://stevejtrettel.site">Steve Trettel</a><br>
 Assistant Professor, University of San Francisco<br>
 <em> "Why can't you tie your shoes in the fourth dimension?," 2025.</em><br>Held at Santa Clara University</td>
  <tr valign="bottom">
