@@ -6,12 +6,7 @@
  <tr valign="bottom">
    <td><img src="/archives/speakerImages/alexKontorovichSmall.jpeg" border="0"> </td>
 </tr>
- <td><a href="https://www.linkedin.com/in/alonamit/">Alon Amit</a><br>
-  Intuit<br>
- <em> "The changing nature of proof," 2022.</em><br>Held at Santa Clara University</td> 
- <td><a href="http://pi.math.cornell.edu/~zakh/">Inna Zakharevich</a><br>
-Associate Professor, Cornell University<br>
-<em> "Solving polynomials with origami (or: things you can do if you lose your compass)," 2023.</em><br>Held at Santa Clara University</td>
+ 
  <td><a href="https://sites.math.rutgers.edu/~alexk/">Alex Kontorovich</a><br>
 Professor, Rutgers University<br>
 <em> "The Apollonius problem," 2024.</em><br>Held at Santa Clara University</td>
