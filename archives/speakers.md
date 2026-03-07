@@ -4,8 +4,6 @@
 </td></tr>
 <tr> <td colspan="3" height="20px"> </td> </tr>
  <tr valign="bottom">
-
-   <td><img src="/archives/speakerImages/inna_zakharevichSmallBAMO2023.jpg" border="0"> </td>
    <td><img src="/archives/speakerImages/alexKontorovichSmall.jpeg" border="0"> </td>
 </tr>
  <td><a href="https://www.linkedin.com/in/alonamit/">Alon Amit</a><br>
