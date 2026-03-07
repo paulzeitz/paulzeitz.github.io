@@ -4,7 +4,7 @@
 </td></tr>
 <tr> <td colspan="3" height="20px"> </td> </tr>
  <tr valign="bottom">
-   <td><img src="/archives/speakerImages/SteveTcropped.jpeg" border="0"> </td>
+   <td><img src="/archives/speakerImages/SteveTcropped.jpeg" border="0" width = "300"> </td>
 </tr>
  
  <td><a href="https://stevejtrettel.site">Steve Trettel</a><br>
