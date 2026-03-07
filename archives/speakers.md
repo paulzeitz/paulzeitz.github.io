@@ -7,9 +7,9 @@
    <td><img src="/archives/speakerImages/alexKontorovichSmall.jpeg" border="0"> </td>
 </tr>
  
- <td><a href="https://sites.math.rutgers.edu/~alexk/">Alex Kontorovich</a><br>
-Professor, Rutgers University<br>
-<em> "The Apollonius problem," 2024.</em><br>Held at Santa Clara University</td>
+ <td><a href="https://sites.math.rutgers.edu/~alexk/">Steve Trettel</a><br>
+Assistant Professor, University of San Francisco<br>
+<em> "Why can't you tie your shoes in the fourth dimension?," 2025.</em><br>Held at Santa Clara University</td>
  <tr valign="bottom">
 <td><img src="/archives/speakerImages/alonAmitSmall2.jpeg" border="0"></td>
    <td><img src="/archives/speakerImages/inna_zakharevichSmallBAMO2023.jpg" border="0"> </td>
