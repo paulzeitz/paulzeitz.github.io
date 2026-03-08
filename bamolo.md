@@ -8,4 +8,4 @@ Here is some basic information about the SF event.
 - **When** Sunday, June 7, 930AM--3PM
 - **Where** [Proof School](https://www.proofschool.org),  221 Main Street, near Embarcadero BART.
 
-Please visit this website for more information, and add your email to our [mailing list](https://forms.gle/uk6tus8tYFVwvq8Y8), and we will send you more information soon about registering, etc.  We plan to follow the excellent example of the UW Olympiad, so please visit their site for more information as well.
+Please visit this website for more information, and add your email to our [mailing list](https://forms.gle/uk6tus8tYFVwvq8Y8), and we will send you more information soon about registering, etc.  We plan to follow the excellent example of the UW Olympiad, so please visit their site for more information as well.  The creators of the UW Olympiad wrote an excellent book, [*Math Out Loud*](https://www.amazon.com/Math-Out-Loud-Olympiad-Mathematical/dp/1470466937/ref=sr_1_1?dib=eyJ2IjoiMSJ9.mphTk2EUHt4wzZ_GS2dImA.jYIkJaHtWQU_sFfLtLib1TMxcyM5onHWMwUIyHOa3KI&dib_tag=se&keywords=9781470466930&linkCode=qs&qid=1772941221&s=books&sr=1-1), which we strongly recommend.
