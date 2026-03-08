@@ -4,7 +4,7 @@
 
 (Hit return if you cannot see image below.)
 
-<img src="annaBAMOLOcropped.jpeg" alt ="hit return if you cannot see image" width="300">
+![hit return if you cannot see image](annaBAMOLOcropped.jpeg) 
 
 
 Here is some basic information about the SF event.
