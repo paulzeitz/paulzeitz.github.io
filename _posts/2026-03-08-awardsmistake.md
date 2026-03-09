@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2026 Awards Ceremony: Mistakes *were* made
+title: 2026 Awards Ceremony-Mistakes *were* made
 subtitle: Corrected awards report coming soon
 ---
 
