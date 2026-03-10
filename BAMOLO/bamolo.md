@@ -7,7 +7,7 @@
 ![hit cmd-R if you cannot see image](annaBAMOLOcropped.jpeg) 
 
 
-Here is some basic information about the SF event.
+Here is some basic information about the SF event, nicknamed *BAMOLO* (Bay Area Math Out Loud Olympiad).
 - **When** Sunday, June 7, 930AM--3PM
 - **Where** [Proof School](https://www.proofschool.org),  221 Main Street, near Embarcadero BART.
 
