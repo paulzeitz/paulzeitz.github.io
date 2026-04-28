@@ -7,7 +7,7 @@
 
 [Registration](https://forms.gle/iQr63J29p8kH8icH6) is open now! Space is very limited (we will probably limit attendance for our first year to 40 participants), so do not register unless you are sure you will attend.
 
-For more information, go [here](more-info.html).
+For more information, go [here](more-info.md).
 
 Here is some basic information about the SF event, nicknamed *BAMOLO* (Bay Area Math Out Loud Olympiad).
 - **When** Sunday, June 7, 900AM--3:30PM
