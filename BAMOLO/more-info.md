@@ -47,8 +47,7 @@
 
   <p>On the day of the event, <strong>bring scratch paper, pencils, and a nut-free snack</strong>. If you would like to bring a simple scientific calculator, you are free to do so, but you shouldn’t need one.</p>
 
-  <p>Parking at UW is free on Sundays. The closest lot will depend on the building we are using in any particular year, but you can find general information <a class="inline-link" href="https://transportation.uw.edu/files/media/uw-campus-map-self-serve-lots-all-20230808.pdf" target="_blank" rel="noopener noreferrer">here <span class="material-symbols-outlined icon-small"></span></a>. Alternatively, the UW campus is generally accessible by Link light rail and King County Metro buses.</p>
-
+  
   <h2 id="rules-and-format">Rules and format</h2>
 
   <p>This style of Olympiad is likely to be quite different from any other type of mathematical contest you have experienced. There will be two levels of problems: one for grades 6–7, and another for grades 8–10. Initially, you will be given a set of <strong>5 problems</strong> to solve over <strong>3 hours</strong>. If you solve 3 or more of the initial 5 problems, you will be given <strong>2 additional harder problems</strong>. The number of points you get is simply the number of problems you solve.</p>
