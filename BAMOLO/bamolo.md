@@ -3,9 +3,9 @@
 [The UW Math Olympiad](https://sites.math.washington.edu/~mathcircle/olympiad/) is a unique math contest, one where participants *talk out loud* to judges to explain their work. It started nearly 20 years in Seattle, and now this exciting event will debut, in June 2026, in San Francisco and New York City.
 
 
+<img src="annaBAMOLOcropped.jpeg" width="200">
 
 
-![alt](annaBAMOLOcropped.jpeg){: width="50%"}
 
 Here is some basic information about the SF event, nicknamed *BAMOLO* (Bay Area Math Out Loud Olympiad).
 - **When** Sunday, June 7, 930AM--3PM
