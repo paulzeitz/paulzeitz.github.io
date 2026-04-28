@@ -4,7 +4,7 @@
 
 
 
-![hit cmd-R if you cannot see image](annaBAMOLOcropped.jpeg) 
+![hit cmd-R if you cannot see image](annaBAMOLOcropped.jpeg){: width="50%"}
 
 
 Here is some basic information about the SF event, nicknamed *BAMOLO* (Bay Area Math Out Loud Olympiad).
