@@ -4,8 +4,8 @@
 
 
 
-![hit cmd-R if you cannot see image](annaBAMOLOcropped.jpeg){: width="50%"}
 
+![alt](annaBAMOLOcropped.jpeg){: width="50%"}
 
 Here is some basic information about the SF event, nicknamed *BAMOLO* (Bay Area Math Out Loud Olympiad).
 - **When** Sunday, June 7, 930AM--3PM
