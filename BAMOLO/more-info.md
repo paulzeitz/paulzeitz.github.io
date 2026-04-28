@@ -37,13 +37,9 @@
         </tbody>
       </table>
 
-    </div>
+   
 
-</div>
 
-</div>
-
-<div class="narrow">
 
   <p>On the day of the event, <strong>bring scratch paper, pencils, and a nut-free snack</strong>. If you would like to bring a simple scientific calculator, you are free to do so, but you shouldn’t need one.</p>
 
