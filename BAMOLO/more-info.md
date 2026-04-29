@@ -1,45 +1,11 @@
-
-
-      <p><strong>Grades 8-10 Schedule</strong></p>
-
-      <table>
-        <thead>
-          <tr>
-            <th style="text-align: center">Time</th>
-            <th>Activity</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td style="text-align: center">9:30–10:00</td>
-            <td>Registration</td>
-          </tr>
-          <tr>
-            <td style="text-align: center">10:00–10:30</td>
-            <td>Opening ceremony</td>
-          </tr>
-          <tr>
-            <td style="text-align: center">10:30–1:30</td>
-            <td>Problem solving time</td>
-          </tr>
-          <tr>
-            <td style="text-align: center">1:30–2:00</td>
-            <td>Lunch</td>
-          </tr>
-          <tr>
-            <td style="text-align: center">2:00–3:00</td>
-            <td>Presentation of solutions</td>
-          </tr>
-          <tr>
-            <td style="text-align: center">3:00–3:30</td>
-            <td>Closing ceremony / awards</td>
-          </tr>
-        </tbody>
-      </table>
-
-   
-
-
+|    Time    |          Activity         |
+|:----------:|:-------------------------:|
+|  9:00–9:30 |        Registration       |
+| 9:30–10:00 |      Opening ceremony     |
+| 10:00–1:00 |    Problem solving time   |
+|  1:00–2:00 |           Lunch           |
+|  2:00–3:00 | Presentation of solutions |
+|  3:00–3:30 |  Closing ceremony / award |
 
   <p>On the day of the event, <strong>bring scratch paper, pencils, and a nut-free snack</strong>. If you would like to bring a simple scientific calculator, you are free to do so, but you shouldn’t need one.</p>
 
