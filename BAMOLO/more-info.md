@@ -53,8 +53,6 @@
     <div class="answer">
     <p>Remember that this competition is very different from other competitions, in that you need to explain your answers carefully and clearly so that the judge is convinced that you are correct. The best way to prepare for anything is to practice. This means solving problems (from any source), and trying to explain your answers carefully to a parent, teacher, or friend! Tell them to be skeptical, and if they don’t understand, take that to mean that you should improve your explanation, not that they are less capable than you.</p>
 
-<p>The <a class="inline-link" href="/~mathcircle/circle">UW Math Circle</a> is also an excellent way to practice talking about math, though the program is not intended as preparation for the Olympiad and is by no means required.</p>
-
 <p>If you’d like to practice with actual UW Math Olympiad problems, check out the <a class="inline-link" href="/~mathcircle/olympiad/archive">Archive</a>. If you want some solutions or just a physical collection, we wrote a book! It is called <a class="inline-link" href="https://bookstore.ams.org/mcl-27/" target="_blank" rel="noopener noreferrer">Math Out Loud: an Oral Olympiad Handbook <span class="material-symbols-outlined icon-small"></span></a>, and it contains practice problems and worked solutions from the first 10 years of this Olympiad. All profits go to supporting the UW Math Olympiad.</p>
 
 </div>
@@ -63,16 +61,12 @@
   <details>
     <summary>I have a different question.</summary>
     <div class="answer">
-    <p>Please contact Julia Pevtsova at julia [at] math [dot] washington [dot] edu and Steve Klee at klees [at] uw [dot] edu.</p>
+    <p>For general questions about the UW Olympiad, please contact the Washington organizers Julia Pevtsova at julia [at] math [dot] washington [dot] edu or Steve Klee at klees [at] uw [dot] edu. For San Francisco specific questions, contact Paul Zeitz at zeitzp [at] usfca [dot] edu.</p>
 
 </div>
   </details>
 
 </div>
 
-    </main>
-    <footer>
-    <span>Copyright © 2009-2025 UW Math Enrichment, an organization in the University of Washington Department of Mathematics.</span>
-</footer>
-  </body>
+   
 </html>
