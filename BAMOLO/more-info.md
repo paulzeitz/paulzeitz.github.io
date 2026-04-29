@@ -31,7 +31,7 @@
   <details>
     <summary>Can I join UW Math Olympiad if I am not in grades 6–10?</summary>
     <div class="answer">
-    <p>Highly motivated 5th-graders may participate, however, we discourage this because the format of the Olympiad can be overwhelming for younger students. No other grades will be admitted.</p>
+    <p>Sorry, for our first year we will be very strict about ages and grades: Just people in grades 6-10, inclusive, at least 10 years old and younger than 16. We may expand to include younger students in the future.</p>
 
 </div>
   </details>
@@ -39,7 +39,7 @@
   <details>
     <summary>Is registration required? Is there a capacity limit?</summary>
     <div class="answer">
-    <p>Due to nature of this competition, there is a limited capacity dependent on the number of judges we have. Therefore, registration is required and will close when we hit our capacity limit.</p>
+    <p>Due to nature of this competition, there is a very limited capacity dependent on the number of judges we have. Therefore, registration is required and will close when we hit our capacity limit.</p>
 
 </div>
   </details>
@@ -47,7 +47,7 @@
   <details>
     <summary>Are there prizes?</summary>
     <div class="answer">
-    <p>During the awards ceremony, the top scorers in each grade bracket (6–7 and 8–10) will be given certificates to commemorate their achievement.</p>
+    <p>During the awards ceremony, the top scorers in each grade bracket (6–7 and 8–10) will be given modest prizes to commemorate their achievement.</p>
 
 </div>
   </details>
