@@ -9,7 +9,7 @@
 | 10:00–1:00 |    Problem solving time   |
 |  1:00–2:00 |           Lunch           |
 |  2:00–3:00 | Presentation of solutions |
-|  3:00–3:30 |  Closing ceremony / award |
+|  3:00–3:30 |  Closing ceremony / awards |
 
   <p>On the day of the event, <strong>bring scratch paper, pencils, and a nut-free snack</strong>. If you would like to bring a simple scientific calculator, you are free to do so, but you shouldn’t need one.</p>
 
@@ -18,7 +18,7 @@
 
   <p>This style of Olympiad is likely to be quite different from any other type of mathematical contest you have experienced. There will be two levels of problems: one for grades 6–7, and another for grades 8–10. Initially, you will be given a set of <strong>5 problems</strong> to solve over <strong>3 hours</strong>. If you solve 3 or more of the initial 5 problems, you will be given <strong>2 additional harder problems</strong>. The number of points you get is simply the number of problems you solve.</p>
 
-  <p>This is an <strong>individual oral Olympiad</strong>. This means that when you solve a problem, you will discuss your solution with a judge. After you explain your answer, the judge will decide whether or not your solution is correct. If your solution is incomplete, the judge will help you understand why your solution is incomplete. At that point you will have an opportunity to continue to work on the problem, and try to present it again. Each student will have <strong>3 attempts to present each problem</strong> to the judges.</p>
+  <p>This is an <strong>individual oral olympiad</strong>. This means that when you solve a problem, you will discuss your solution with a judge. After you explain your answer, the judge will decide whether or not your solution is correct. If your solution is incomplete, the judge will help you understand why your solution is incomplete. At that point you will have an opportunity to continue to work on the problem, and try to present it again. Each student will have <strong>3 attempts to present each problem</strong> to the judges.</p>
 
   <p>Our judges are friendly mathematicians who have volunteered their time on a Sunday morning to talk about math with you! They want to be there, and they want you to succeed as you work on these problems.</p>
 
@@ -72,4 +72,4 @@
 </div>
 
    
-</html>
+
