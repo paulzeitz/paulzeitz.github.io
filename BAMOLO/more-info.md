@@ -65,7 +65,7 @@
   <details>
     <summary>I have a different question.</summary>
     <div class="answer">
-    <p>For general questions about the UW Olympiad, please contact the Washington organizers Julia Pevtsova at julia [at] math [dot] washington [dot] edu or Steve Klee at klees [at] uw [dot] edu. For San Francisco specific questions, contact Paul Zeitz at zeitzp [at] usfca [dot] edu.</p>
+    <p>For general questions about the UW Olympiad, please contact the Washington organizers Julia Pevtsova at julia [at] math [dot] washington [dot] edu or Steve Klee at klees [at] uw [dot] edu. For San Francisco-specific questions, contact Paul Zeitz at zeitzp [at] usfca [dot] edu.</p>
 
 
 
