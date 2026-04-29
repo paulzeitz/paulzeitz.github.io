@@ -1,3 +1,5 @@
+# More information about BAMOLO
+
 <h2 id="Schedule">Schedule for Sunday, June 7, 2026</h2>
 
 |    Time    |          Activity         |
