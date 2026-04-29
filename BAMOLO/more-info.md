@@ -29,7 +29,7 @@
   <h2 id="faq">FAQ</h2>
 
   <details>
-    <summary>Can I join UW Math Olympiad if I am not in grades 6–10?</summary>
+    <summary>Can I join BAMOLO if I am not in grades 6–10?</summary>
     <div class="answer">
     <p>Sorry, for our first year we will be very strict about ages and grades: Just people in grades 6-10, inclusive, at least 10 years old and younger than 16. We may expand to include younger students in the future.</p>
 
@@ -57,7 +57,7 @@
     <div class="answer">
     <p>Remember that this competition is very different from other competitions, in that you need to explain your answers carefully and clearly so that the judge is convinced that you are correct. The best way to prepare for anything is to practice. This means solving problems (from any source), and trying to explain your answers carefully to a parent, teacher, or friend! Tell them to be skeptical, and if they don’t understand, take that to mean that you should improve your explanation, not that they are less capable than you.</p>
 
-<p>If you’d like to practice with actual UW Math Olympiad problems, check out the <a class="inline-link" href="/~mathcircle/olympiad/archive">Archive</a>. If you want some solutions or just a physical collection, we wrote a book! It is called <a class="inline-link" href="https://bookstore.ams.org/mcl-27/" target="_blank" rel="noopener noreferrer">Math Out Loud: an Oral Olympiad Handbook <span class="material-symbols-outlined icon-small"></span></a>, and it contains practice problems and worked solutions from the first 10 years of this Olympiad. All profits go to supporting the UW Math Olympiad.</p>
+<p>If you’d like to practice with actual UW Math Olympiad problems, check out the  book <a class="inline-link" href="https://bookstore.ams.org/mcl-27/" target="_blank" rel="noopener noreferrer">Math Out Loud: an Oral Olympiad Handbook</a>, and it contains practice problems and worked solutions from the first 10 years of this Olympiad. All profits go to supporting the UW Math Olympiad.</p>
 
 </div>
   </details>
