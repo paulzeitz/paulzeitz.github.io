@@ -1,4 +1,4 @@
-<h1 style="color:DodgerBlue;>More information about BAMOLO</h1>
+<h1 style="color:DodgerBlue;">More information about BAMOLO</h1>
 
 <h2 id="Schedule">Schedule for Sunday, June 7, 2026</h2>
 
