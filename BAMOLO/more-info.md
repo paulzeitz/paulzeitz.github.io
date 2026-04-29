@@ -1,3 +1,5 @@
+<h2 id="Schedule">Schedule for Sunday, June 7, 2026</h2>
+
 |    Time    |          Activity         |
 |:----------:|:-------------------------:|
 |  9:00–9:30 |        Registration       |
