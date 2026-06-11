@@ -1,12 +1,16 @@
 <h1 style="color:DodgerBlue;">UW Math Olympiad in  San Francisco (aka BAMOLO, "Bay Area Math Out Loud Olympiad")</h1>
 
-[The UW Math Olympiad](https://sites.math.washington.edu/~mathcircle/olympiad/) is a unique math contest, one where participants *talk out loud* to judges to explain their work. It started nearly 20 years in Seattle, and now this exciting event  took place in two satellite locations on June 7, 2006, in San Francisco and New York City.
+[The UW Math Olympiad](https://sites.math.washington.edu/~mathcircle/olympiad/) is a unique math contest, one where participants *talk out loud* to judges to explain their work. It started nearly 20 years in Seattle, and for the first time, this exciting event  took place in two satellite locations on June 7, 2026, in San Francisco and New York City.
 
 ![alt](cathyBAMOLOc.jpeg)
 
 Registration will open for BAMOLO 2027 in spring 2027.  Mark your calendars for  June 6, 2027.
 
-2026 [Problems](https://sites.math.washington.edu/~mathcircle/olympiad/2026-67-main.pdf)
+Here are the 2026 problems. The "extra" problems are two additional problems given to those who solved 3 problems from the initial set.
+[6-7th grade](https://sites.math.washington.edu/~mathcircle/olympiad/2026-67-main.pdf)
+[6-7th grade extra ](https://sites.math.washington.edu/~mathcircle/olympiad/2026-67-extra.pdf)
+[8-10th grade](https://sites.math.washington.edu/~mathcircle/olympiad/2026-810-main.pdf)
+[8-10th grade extra](https://sites.math.washington.edu/~mathcircle/olympiad/2026-810-extra.pdf)
 
 
 Here is some basic information about BAMOLO 2026. We will update for 2027 in spring 2027.
