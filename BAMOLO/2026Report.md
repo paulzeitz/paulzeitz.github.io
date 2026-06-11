@@ -37,3 +37,16 @@ Here are the 2026 problems. The "extra" problems are two additional problems giv
 | 2nd place         | Jayden   | Gong  |
 | 2nd place         | Dylan    | Wang  |
 | Honorable Mention | Roger    | Huynh |
+
+## Problem Statistics
+
+Grade 6-7 (28 participants)
+| Problem | # of solves |
+|---------|-------------|
+|       1 |          28 |
+|       2 |          21 |
+|       3 |          14 |
+|       4 |          10 |
+|       5 |          14 |
+|       6 |           9 |
+|       7 |           3 |
