@@ -31,6 +31,7 @@ Here are the 2026 problems. The "extra" problems are two additional problems giv
 | Honorable Mention | Bokai   | Yan           |
 
 ## 8-10th grade awardees
+
 | Prize             | First    | Last  |
 |-------------------|----------|-------|
 | 1st place         | Jonathan | Yu    |
@@ -41,6 +42,7 @@ Here are the 2026 problems. The "extra" problems are two additional problems giv
 ## Problem Statistics
 
 Grade 6-7 (28 participants)
+
 | Problem | # of solves |
 |---------|-------------|
 |       1 |          28 |
@@ -52,6 +54,7 @@ Grade 6-7 (28 participants)
 |       7 |           3 |
 
 Grade 8-10 (11 participants)
+
 | Problem | # of solves |
 |---------|-------------|
 |       1 |          10 |
