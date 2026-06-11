@@ -7,6 +7,8 @@ Here are the 2026 problems. The "extra" problems are two additional problems giv
 - [8-10th grade](https://sites.math.washington.edu/~mathcircle/olympiad/2026-810-main.pdf)
 - [8-10th grade extra](https://sites.math.washington.edu/~mathcircle/olympiad/2026-810-extra.pdf)
 
+## 6-7th grade awardees.
+In keeping with our "puppy discusses math with two older friendly dogs," all prizewinners received a stuffed doggie.
 
 | Prize             | First   | Last          |
 |-------------------|---------|---------------|
