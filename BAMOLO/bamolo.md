@@ -10,7 +10,7 @@ Registration will open for BAMOLO 2027 in spring 2027.
 
 
 
-Here is some basic information about BAMOLO 2026. To see the problems and the prizewinners, go  go [here](2026Report.md). We will update for 2027 in spring 2027.
+Here is some basic information about BAMOLO 2026. To see the 2026 problems and the prizewinners, go  go [here](2026Report.md). We will update for 2027 in spring 2027.
 - **When** Sunday, June 7, 900AM--3:30PM
 - **Where** [Proof School](https://www.proofschool.org),  221 Main Street, near Embarcadero BART.
 - **Who** Math-loving students in grades 6-10 (ages 10-15) who want to think about challenging fun problems and explain their reasoning to friendly older mathematicians.
