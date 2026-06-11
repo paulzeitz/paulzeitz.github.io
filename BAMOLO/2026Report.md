@@ -7,8 +7,11 @@ Here are the 2026 problems. The "extra" problems are two additional problems giv
 - [8-10th grade](https://sites.math.washington.edu/~mathcircle/olympiad/2026-810-main.pdf)
 - [8-10th grade extra](https://sites.math.washington.edu/~mathcircle/olympiad/2026-810-extra.pdf)
 
-## 6-7th grade awardees.
-In keeping with our "puppy discusses math with two older friendly dogs," all prizewinners received a stuffed doggie.
+  We had 39 participants; 28 doing the 6-7th grade problems, and 11 doing the 8-10th grade problems.
+  In keeping with our "puppy discusses math with two older friendly dogs," all prizewinners received a stuffed doggie.
+
+## 6-7th grade awardees
+
 
 | Prize             | First   | Last          |
 |-------------------|---------|---------------|
@@ -26,3 +29,11 @@ In keeping with our "puppy discusses math with two older friendly dogs," all pri
 | Honorable Mention | Athena  | Powell        |
 | Honorable Mention | Lucas   | Xu            |
 | Honorable Mention | Bokai   | Yan           |
+
+## 8-10th grade awardees
+| Prize             | First    | Last  |
+|-------------------|----------|-------|
+| 1st place         | Jonathan | Yu    |
+| 2nd place         | Jayden   | Gong  |
+| 2nd place         | Dylan    | Wang  |
+| Honorable Mention | Roger    | Huynh |
