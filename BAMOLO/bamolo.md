@@ -8,12 +8,6 @@ Registration will open for BAMOLO 2027 in spring 2027.
 
 # Mark your calendars for  June 6, 2027!
 
-Here are the 2026 problems. The "extra" problems are two additional problems given to those who solved 3 problems from the initial set.
-
-- [6-7th grade](https://sites.math.washington.edu/~mathcircle/olympiad/2026-67-main.pdf)
-- [6-7th grade extra ](https://sites.math.washington.edu/~mathcircle/olympiad/2026-67-extra.pdf)
-- [8-10th grade](https://sites.math.washington.edu/~mathcircle/olympiad/2026-810-main.pdf)
-- [8-10th grade extra](https://sites.math.washington.edu/~mathcircle/olympiad/2026-810-extra.pdf)
 
 
 Here is some basic information about BAMOLO 2026. We will update for 2027 in spring 2027.
