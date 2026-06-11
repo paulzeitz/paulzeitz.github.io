@@ -1,5 +1,13 @@
 <h1 style="color:DodgerBlue;">More information about BAMOLO</h1>
 
+Here are the 2026 problems. The "extra" problems are two additional problems given to those who solved 3 problems from the initial set.
+
+- [6-7th grade](https://sites.math.washington.edu/~mathcircle/olympiad/2026-67-main.pdf)
+- [6-7th grade extra ](https://sites.math.washington.edu/~mathcircle/olympiad/2026-67-extra.pdf)
+- [8-10th grade](https://sites.math.washington.edu/~mathcircle/olympiad/2026-810-main.pdf)
+- [8-10th grade extra](https://sites.math.washington.edu/~mathcircle/olympiad/2026-810-extra.pdf)
+
+
 <h2 id="Schedule">Schedule for Sunday, June 7, 2026</h2>
 
 |    Time    |          Activity         |
