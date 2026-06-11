@@ -4,7 +4,9 @@
 
 ![alt](cathyBAMOLOc.jpeg)
 
-Registration will open for BAMOLO 2027 in spring 2027.  Mark your calendars for  June 6, 2027.
+Registration will open for BAMOLO 2027 in spring 2027.  
+
+# Mark your calendars for  June 6, 2027!
 
 Here are the 2026 problems. The "extra" problems are two additional problems given to those who solved 3 problems from the initial set.
 
