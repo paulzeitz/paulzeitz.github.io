@@ -13,7 +13,7 @@ If you want to be on our email list, click this [link!](https://forms.gle/WGY7w2
 
 | date  | facilitator   | topic   | handout  |   
 |---|---|---|---|
-|10 Oct 2026|Kathy  Paur|Cutting out Hearts|Kathy's session was inspired by her award-winning lesson that got 2nd Rosenthal award prize in  2023. The Rosenthal award is sponsored [by MoMath](https://momath.org). Here is a link to her [lesson](https://momath.org/wp-content/uploads/2024/01/Rosenthal-Prize-2023-Kathy-Paur-Cutting-Out-Hearts.pdf) and a link to the [slides](https://docs.google.com/presentation/d/1QEBP5H-xYP_9GgqRYTSAsmMN08FjobJAWhVxkakQpW4/edit?usp=sharing) that she showed (explaining, among other things, how *you* can apply for the Rosenthal prize).|
+|10 Oct 2026|[Kathy  Paur](https://www.linkedin.com/in/kpaur/)|Cutting out Hearts|Kathy's session was inspired by her award-winning lesson that got 2nd Rosenthal award prize in  2023. The Rosenthal award is sponsored [by MoMath](https://momath.org). Here is a link to her [lesson](https://momath.org/wp-content/uploads/2024/01/Rosenthal-Prize-2023-Kathy-Paur-Cutting-Out-Hearts.pdf) and a link to the [slides](https://docs.google.com/presentation/d/1QEBP5H-xYP_9GgqRYTSAsmMN08FjobJAWhVxkakQpW4/edit?usp=sharing) that she showed (explaining, among other things, how *you* can apply for the Rosenthal prize).|
 |12 Dec 2026|Amara Cohen and Sarang  Aravamuthan|TBA||
 |23 Jan 2027|Ted Alper|TBA||
 |6 Mar 2027|Peg Cagle|TBA||
